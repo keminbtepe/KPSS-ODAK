@@ -13,8 +13,8 @@
 
 <p align="center">
 <a href="#-application-screens--uygulama-ekranları">📱 Ekranlar / Screens</a> ·
-<a href="#-management-modules--yönetim-alanları">🎛️ Yönetim / Management</a> ·
-<a href="#-technologies-and-architecture--teknolojiler-ve-mimari">🛠️ Teknolojiler / Technologies</a> ·
+<a href="#️-management-modules--yönetim-alanları">🎛️ Yönetim / Management</a> ·
+<a href="#️-technologies-and-architecture--teknolojiler-ve-mimari">🛠️ Teknolojiler / Technologies</a> ·
 <a href="#-database-design--veri-tabanı-tasarımı">🗃️ Veri modeli / Data model</a>
 </p>
 
@@ -277,7 +277,9 @@
 - ✅ Role distribution shows the composition of the user base, while subject distribution shows where questions are concentrated.
 - 🔎 Links from cards and distribution sections lead into the relevant management areas.
 
-</details>### 📚 02 · Curriculum management / Müfredat Yönetimi
+</details>
+
+### 📚 02 · Curriculum management / Müfredat Yönetimi
 
 **🇹🇷 Özellikler**
 
@@ -292,7 +294,9 @@
 - ✅ Updating a curriculum title preserves its existing question relationships.
 - 🔎 The hierarchy provides a clear route from broad subjects to specific practice areas.
 
-</details>### 📝 03 · Question bank / Soru Bankası
+</details>
+
+### 📝 03 · Question bank / Soru Bankası
 
 **🇹🇷 Özellikler**
 
@@ -310,7 +314,9 @@
 - 🔎 Staff search and filter content, inspect curriculum question counts, and save questions as drafts or publish them.
 - 🛡️ Difficulty can use student answer results or a manual selection; review information helps identify unusually difficult questions.
 
-</details>### 🚩 04 · Question reports / Soru Bildirimleri
+</details>
+
+### 🚩 04 · Question reports / Soru Bildirimleri
 
 **🇹🇷 Özellikler**
 
@@ -327,7 +333,9 @@
 - 🔎 The full question editor is accessible from the review area, allowing content correction without losing the original report history.
 - 🛡️ Pending counts appear in the menu.
 
-</details>### 🗓️ 05 · Exam management / Sınav Yönetimi
+</details>
+
+### 🗓️ 05 · Exam management / Sınav Yönetimi
 
 **🇹🇷 Özellikler**
 
@@ -342,7 +350,9 @@
 - ✅ Calendar entries can be deactivated and reactivated.
 - 🔎 These records supply the exam information and countdowns used by students.
 
-</details>### 👥 06 · Users / Kullanıcılar
+</details>
+
+### 👥 06 · Users / Kullanıcılar
 
 **🇹🇷 Özellikler**
 
@@ -359,7 +369,9 @@
 - 🔎 User counters summarize students, instructors and administrators, and the interface provides CSV export.
 - 🛡️ A user's package action opens current access, assignment controls and subscription history.
 
-</details>### 🛡️ 07 · Roles / Roller
+</details>
+
+### 🛡️ 07 · Roles / Roller
 
 **🇹🇷 Özellikler**
 
@@ -376,7 +388,9 @@
 - 🔎 Default roles and roles assigned to users are protected from deletion.
 - 🛡️ This separates student participation, instructional responsibilities and administration.
 
-</details>### 🏆 08 · Leaderboard settings / Liderlik Ayarları
+</details>
+
+### 🏆 08 · Leaderboard settings / Liderlik Ayarları
 
 **🇹🇷 Özellikler**
 
@@ -389,7 +403,9 @@
 - 🏆 Leaderboard eligibility is controlled per role in a separate management area.
 - ✅ Staff determine which groups participate in ranking, while students see weekly and all-time results in the mobile application.
 
-</details>### ❄️ 09 · Study streak and freeze protection / Streak / Freeze
+</details>
+
+### ❄️ 09 · Study streak and freeze protection / Streak / Freeze
 
 **🇹🇷 Özellikler**
 
@@ -406,7 +422,9 @@
 - 🔎 Individual or bulk protection grants and eligible interruption compensation are previewed before confirmation.
 - 🛡️ Operation history tracks outcomes and supports following up completed or interrupted work.
 
-</details>### 💎 10 · Subscriptions and feature access / Abonelikler
+</details>
+
+### 💎 10 · Subscriptions and feature access / Abonelikler
 
 **🇹🇷 Özellikler**
 
@@ -423,7 +441,9 @@
 - 🔎 User access can be assigned, extended, changed or cancelled, keeping previous periods in history.
 - 🛡️ Store offers attached to packages can also be managed.
 
-</details>### 🔑 11 · Access codes / Erişim Kodları
+</details>
+
+### 🔑 11 · Access codes / Erişim Kodları
 
 **🇹🇷 Özellikler**
 
@@ -438,7 +458,9 @@
 - 🔑 Administrators create individual or batch promotional codes, associate access with a package, search and filter codes, inspect usage history, temporarily deactivate codes or revoke them with a reason.
 - ✅ Students redeem codes from their package area; granted access and code history remain distinguishable from store purchases.
 
-</details>### 💰 12 · Sales and revenue / Satışlar / Gelir
+</details>
+
+### 💰 12 · Sales and revenue / Satışlar / Gelir
 
 **🇹🇷 Özellikler**
 
@@ -455,7 +477,9 @@
 - 🔎 Test-store events are excluded from real sales totals.
 - 🛡️ Promotional codes and administrative grants are not classified as store sales.
 
-</details>### 💬 13 · Support requests / Destek Başvuruları
+</details>
+
+### 💬 13 · Support requests / Destek Başvuruları
 
 **🇹🇷 Özellikler**
 
@@ -472,7 +496,9 @@
 - 🔎 A staff reply can be edited later, with its update time shown.
 - 🛡️ Students read the response in their own request history.
 
-</details>### 🕘 14 · Operation history / İşlem Geçmişi
+</details>
+
+### 🕘 14 · Operation history / İşlem Geçmişi
 
 **🇹🇷 Özellikler**
 
@@ -487,7 +513,9 @@
 - ✅ Details show the affected area and previous/new values where appropriate.
 - 🔎 This supports reviewing changes across users, roles, content, subscriptions, access codes and other managed areas without turning the log into an editable workspace.
 
-</details>### ⚙️ 15 · Settings and panel navigation / Ayarlar ve panel kullanımı
+</details>
+
+### ⚙️ 15 · Settings and panel navigation / Ayarlar ve panel kullanımı
 
 **🇹🇷 Özellikler**
 
@@ -505,7 +533,9 @@
 - 🔎 The current staff account and sign-out action remain in the header.
 - 🛡️ Module access follows the staff member's permissions.
 
-</details># 🛠️ Technologies and architecture / Teknolojiler ve mimari
+</details>
+
+# 🛠️ Technologies and architecture / Teknolojiler ve mimari
 
 **📱 Mobile / Mobil:** React Native · Expo · TypeScript  
 **🖥️ Web:** React · Vite · Tailwind CSS · TypeScript  
@@ -587,7 +617,9 @@ flowchart LR
 - 🔸 Repeated attempts do not inflate distinct-question completion; XP is earned once for the first correct solution.
 - ✅ The mistake pool follows the student's latest answer.
 
-</details># 🗃️ Database design / Veri tabanı tasarımı
+</details>
+
+# 🗃️ Database design / Veri tabanı tasarımı
 
 **🇹🇷 Özellikler**
 
