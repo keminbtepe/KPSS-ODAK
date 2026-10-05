@@ -1,221 +1,265 @@
-# KPSS ODAK
+<p align="center"><img src="assets/kpss-odak-logo.png" alt="KPSS ODAK glass book logo" width="160" /></p>
 
-[English](#english) · [Türkçe](#türkçe)
+<h1 align="center">KPSS ODAK</h1>
+
+<div align="center">
+
+**Mobile student application · Web management portal · 2026**
+
+[English](#english) · [Türkçe](#türkçe) · [Database design / Veritabanı tasarımı](docs/DATABASE_DESIGN.md) · [Full product tour / Ayrıntılı tanıtım](docs/PRODUCT_TOUR.md)
+
+</div>
+
+---
+
+### Screens at a glance / Ekranlara bakış
+
+<p align="center">
+<img src="assets/01-mobile-home.jpeg" alt="Home and performance overview" width="30%" />
+<img src="assets/02-curriculum-progress.jpeg" alt="Subjects, topics and progress" width="30%" />
+<img src="assets/03-question-solving.jpeg" alt="Question solving and answer feedback" width="30%" />
+</p>
+
+<p align="center">
+<img src="assets/04-question-statistics.jpeg" alt="Question statistics" width="30%" />
+<img src="assets/05-mistake-review.jpeg" alt="Mistake pool and focused revision" width="30%" />
+<img src="assets/06-custom-practice.jpeg" alt="Past-exam-style questions and custom practice" width="30%" />
+</p>
+
+<p align="center">
+<img src="assets/07-question-filters.jpeg" alt="Question filters" width="30%" />
+<img src="assets/08-study-calendar.jpeg" alt="Study streak and activity calendar" width="30%" />
+<img src="assets/09-leaderboard.jpeg" alt="Weekly and all-time leaderboard" width="30%" />
+</p>
+
+**01** Home / Ana sayfa · **02** Curriculum / Müfredat · **03** Question solving / Soru çözümü  
+**04** Statistics / İstatistikler · **05** Mistakes / Hatalarım · **06** Custom practice / Özel test  
+**07** Filters / Filtreler · **08** Study calendar / Çalışma takvimi · **09** Leaderboard / Liderlik
+
+[View each screen with its explanation / Her ekranı açıklamasıyla incele →](docs/SCREENSHOTS.md)
+
+### Web management portal / Web yönetim paneli
+
+![KPSS ODAK administration dashboard](assets/10-admin-dashboard.png)
+
+[Explore every panel module / Panelin tüm alanlarını incele →](docs/ADMIN_PANEL.md)
+
+---
 
 ## English
 
-**Mobile student application & web management panel · 2026**
+### A complete study and management experience
 
-### Purpose
+KPSS ODAK is a mobile study application and web management portal I developed for candidates preparing for Türkiye's Public Personnel Selection Examination. It connects organized question practice with visible progress, focused revision and daily study habits. The management portal gives administrators and instructors a shared workspace to maintain content and support students.
 
-KPSS ODAK is a study application I developed for candidates preparing for Türkiye's Public Personnel Selection Examination. It brings question practice, topic progress, revision and daily goals together so learners can see both what they have completed and where they need more practice.
+### What students can do
 
-The project combines a mobile application for students with a web panel for administrators and instructors. Students focus on their preparation, while the management team organizes learning content, handles feedback and manages access to application features.
+- **Study by subject, topic and subtopic:** follow the curriculum, choose an area and see completion progress.
+- **Practice with purpose:** use topic-based sessions, mixed practice and Quick Solve, with priority given to unanswered questions.
+- **Review results:** see correct, incorrect and unanswered counts, exam net score, accuracy and solution explanations.
+- **Return to difficult questions:** revisit the mistake pool and save questions for later.
+- **Build a routine:** set exam and score targets, track daily goals, study streaks and calendar activity.
+- **Stay engaged:** follow weekly and all-time rankings and check exam countdowns.
+- **Manage their account:** review package access, use access codes, contact support and report questions.
 
-### Student experience
+### A management portal beyond content entry
 
-#### Exam goals and organized learning
+The web panel combines **curriculum and question publishing**, **question-report review**, **users and roles**, **packages and subscriptions**, **promotional access codes**, **exam calendars**, **study-streak operations**, **support**, **store sales reporting** and **operation history**.
 
-Students choose their target exam and can set a target score and daily question goal. Subjects are organized into topics and subtopics, allowing learners to work on a specific area instead of navigating an undifferentiated question bank.
+Questions move from preparation to publication; feedback can lead to a question correction without losing report history. Administrators manage feature access through packages, while instructors work within their assigned permissions.
 
-The subject structure covers areas such as Turkish, Mathematics, History, Geography, Citizenship and Current Affairs. Progress indicators help students understand how far they have advanced through each topic.
-
-#### Question practice and quick solving
-
-Students can solve questions by subject, topic or subtopic, or use mixed practice for a broader session. Mixed practice prioritizes questions the student has not answered before; once the available questions have been completed, practice can continue with a reshuffled selection.
-
-Quick Solve starts with a set of questions and adds more as the student continues. Questions include answer choices and may include visuals. After answering, students can review the correct answer and the instructor's explanation.
-
-The “Questions Similar to Past Exams” collection provides a separate practice area. Available filters help narrow questions by exam type, year and unanswered status.
-
-#### Results and progress tracking
-
-At the end of a practice session, students see correct, incorrect and unanswered counts, their exam net score and success rate. They can review the questions before finishing the session.
-
-Subject and topic summaries show solved questions, correct and incorrect answers, accuracy and completion progress. Answer history supports returning to earlier work. Repeated attempts at the same question do not inflate topic completion.
-
-#### Mistake review and saved questions
-
-The mistake pool collects questions whose most recent answer was incorrect. When a student answers one correctly on a later attempt, it leaves the pool, keeping revision focused on unresolved mistakes.
-
-Students can also save questions for later review. Mistake review, saved questions and the past-exam-style collection share filtering options for more focused practice.
-
-#### Daily habits and motivation
-
-Daily targets, a study calendar and consecutive study streaks make regular practice visible. Students can track their current streak, longest streak and active study days. Available streak protection helps preserve continuity when a study day is missed.
-
-Question practice and daily goals contribute to experience points. Weekly and all-time leaderboards let students follow their position alongside other eligible learners.
-
-#### Exam calendar, profile and support
-
-The exam calendar presents relevant exam dates and countdowns. Profile settings bring together study goals, personal profile preferences and light or dark appearance.
-
-Students can submit support requests, follow their request history and read staff replies. They can also report a question that needs review directly from the solving screen. Account settings include password management and account deletion.
-
-#### Packages and access codes
-
-The package area shows the student's current access and the features available through different plans. Access to options such as quick solving, mistake review, saved questions and advanced question filters is managed according to the assigned package.
-
-Students can enter an access code, view its usage history and check their current package. The application also includes store subscription purchase and restore flows.
-
-### Web management panel
-
-#### Curriculum and question bank
-
-Administrators and instructors organize subjects, topics and subtopics, update their names and order, and manage their availability. This keeps the learning structure manageable as content grows.
-
-The question bank supports creating and editing question text, five answer choices, the correct answer, explanations and optional visuals. Questions can be categorized by curriculum, exam type, source, year and difficulty. Search and filters help staff find relevant content, while draft and published states control what students can access.
-
-Question difficulty can reflect student answer results or be set manually by staff. The panel shows information that helps reviewers identify questions that may need attention.
-
-#### Question reports and content quality
-
-Student question reports are collected in a dedicated review area. Staff can search and filter reports, move them through new, under-review and resolved states, and edit the related question from the review screen.
-
-This connects student feedback with content maintenance. Report history remains available after a case is resolved.
-
-#### Users, roles and responsibilities
-
-The user area provides search, role and account-status filters, account creation and editing, and an overview of students, instructors and administrators. Staff can manage account availability and review a user's package access.
-
-Roles separate student use, instructional work and administrative responsibilities. Leadership settings determine which roles participate in rankings.
-
-#### Packages, subscriptions and access codes
-
-Administrators define packages and the features included in each one. They can set the default package, manage active or inactive offerings and review current package usage.
-
-User subscriptions can be assigned, extended, changed or cancelled, with previous periods retained in the history. Store offers can be managed for the relevant packages.
-
-The access-code area supports individual or batch code creation, package association, usage-history review, temporary deactivation and cancellation. It provides a central place to manage promotional access.
-
-#### Exam calendar and streak management
-
-The exam management area handles exam types and calendar entries. Staff can update titles, dates, display order and availability so the mobile calendar follows the managed information.
-
-The streak area lets administrators review student activity calendars, daily results and protection balances. Protection grants and eligible interruption compensation use a preview and confirmation process, with an operation history for follow-up.
-
-#### Support, sales and operation history
-
-Support requests have a dedicated workspace for reviewing messages, replying and resolving cases. Students can see the replies in their own request history.
-
-The sales area presents store subscription events, gross amounts and refunds by currency, period, platform and package. It helps administrators review the commercial side of the application.
-
-Operation history records saved management changes across content, accounts, packages and other managed areas. Staff can review who made a change, when it occurred and what changed.
-
-### How the application is managed
-
-KPSS ODAK brings everyday management into one web panel: learning content is organized, questions are prepared and published, student feedback is reviewed, and package access is administered. Students use the mobile application for practice and progress tracking; instructors handle learning content and feedback within their permissions; administrators oversee accounts, roles, packages and management history.
+[Explore the complete student and management experience →](docs/PRODUCT_TOUR.md#english)
 
 ### Technologies
 
-React Native · Expo · React · TypeScript · .NET · SQL Server
+**Mobile:** React Native · Expo · TypeScript  
+**Web portal:** React · Vite · Tailwind CSS · TypeScript  
+**Server & data:** .NET 9 · C# · ASP.NET Core · Entity Framework Core · SQL Server
+
+### System architecture
+
+Two clients share the same server-side workflows and data. The backend is organized into API, Application, Domain and Infrastructure layers. Application workflows use service and repository interfaces; Infrastructure provides persistence and background processing.
+
+```mermaid
+flowchart TB
+    subgraph CLIENTS["Clients"]
+        MOBILE["Mobile student application<br/>React Native · Expo"]
+        WEB["Web management portal<br/>React · Vite"]
+    end
+    subgraph BACKEND[".NET · Clean Architecture"]
+        API["KPSS.API<br/>Requests · Sessions · Authorization"]
+        APP["KPSS.Application<br/>Use cases · Business rules"]
+        DOMAIN["KPSS.Domain<br/>Entities · Domain model"]
+        INFRA["KPSS.Infrastructure<br/>EF Core · Data access · Background tasks"]
+    end
+    DB[("SQL Server")]
+    MOBILE -->|HTTPS| API
+    WEB -->|HTTPS| API
+    API --> APP
+    APP --> DOMAIN
+    APP -->|"Through interfaces"| INFRA
+    INFRA --> DOMAIN
+    INFRA --> DB
+    classDef client fill:#e8f0f7,stroke:#213145,color:#142334;
+    classDef core fill:#213145,stroke:#213145,color:#ffffff;
+    classDef storage fill:#fff0e0,stroke:#f08221,color:#142334;
+    class MOBILE,WEB client;
+    class API,APP,DOMAIN,INFRA core;
+    class DB storage;
+```
+
+Arrows show request flow and collaboration, rather than a complete project-reference graph. Domain models describe the core learning and management entities; database access is handled through Infrastructure.
+
+### Database design
+
+The relational model separates **learning content**, **student activity**, **package access** and **management history**. This allows questions to be maintained independently of student answers and lets subscription history remain separate from current access.
+
+- **Curriculum:** Subjects → Topics → Subtopics, with Questions and QuestionOptions.
+- **Learning records:** Users connect to answer history, topic summaries, daily activity, saved questions and XP entries.
+- **Access:** SubscriptionPlans and Features are joined through PlanFeatures; UserSubscriptions record user package periods.
+- **Operations:** question reports, support conversations, code usage, store events and audit history support day-to-day management.
+
+[View the four entity-relationship diagrams and design decisions →](docs/DATABASE_DESIGN.md#english)
+
+### From an answer to measurable progress
+
+```mermaid
+flowchart LR
+    Q["Select question"] --> A["Submit answer"]
+    A --> V["Evaluate on server"]
+    V --> R["Answer history"]
+    R --> P["Topic progress"]
+    R --> D["Daily goal and streak"]
+    R --> X["One-time XP"]
+    V --> S["Result and explanation"]
+    classDef neutral fill:#e8f0f7,stroke:#213145,color:#142334;
+    classDef active fill:#fff0e0,stroke:#f08221,color:#142334;
+    classDef result fill:#e5f5ee,stroke:#10b981,color:#142334;
+    class Q,A,R neutral;
+    class V active;
+    class P,D,X,S result;
+```
+
+Answers are evaluated on the server. Completion counts distinct questions, so repeat practice does not inflate curriculum progress. A question awards XP on its first correct solution only. The mistake pool reflects the latest answer, allowing a corrected mistake to leave the review list.
+
+### Engineering details that support the experience
+
+**Data consistency.** Unique constraints, transactions and user-scoped coordination protect package assignments, code redemption and repeated operations. Topic summaries, activity records and XP entries serve different purposes instead of mixing every learning event into one record.
+
+**Access control.** Server-side sessions identify the user. Roles govern management permissions, while package entitlements govern paid feature access. These two decisions are handled separately.
+
+**Content integrity.** Correct answers and explanations are returned after evaluation rather than included in an unanswered question. Student reports retain useful historical information even when the referenced question or account is removed.
+
+**Background processing.** Study-streak maintenance and answer-based question-difficulty updates run independently of the practice screen. Difficulty can also be controlled manually by staff.
+
+**Traceability.** Management changes, access-code redemptions and store subscription events have their own histories. Previous subscription periods remain available when access changes.
 
 ---
 
 ## Türkçe
 
-**Mobil öğrenci uygulaması ve web yönetim paneli · 2026**
+### Çalışma ve yönetimi bir araya getiren bir uygulama
 
-### Uygulamanın amacı
+KPSS ODAK, KPSS'ye hazırlanan adaylar için geliştirdiğim mobil çalışma uygulaması ve web yönetim panelidir. Düzenli soru pratiğini; görünür ilerleme, hedefli tekrar ve günlük çalışma alışkanlığıyla birleştirir. Yönetici ve eğitmenler ise ortak panel üzerinden içerikleri güncel tutar ve öğrencilere destek verir.
 
-KPSS ODAK, KPSS'ye hazırlanan adayların soru pratiğini, konu ilerlemesini, tekrar çalışmalarını ve günlük hedeflerini bir arada takip edebilmesi için geliştirdiğim bir çalışma uygulamasıdır. Adayın yalnızca soru çözmesini değil, tamamladığı konuları ve daha fazla çalışması gereken alanları görmesini de amaçlar.
+### Öğrenci neler yapabilir?
 
-Proje, öğrencilerin kullandığı mobil uygulama ile yönetici ve eğitmenlerin kullandığı web panelini bir araya getirir. Öğrenci hazırlık sürecine odaklanırken yönetim ekibi içerikleri düzenler, geri bildirimleri değerlendirir ve uygulamadaki özelliklere erişimi yönetir.
+- **Ders, konu ve alt konu üzerinden çalışabilir:** müfredatı takip eder, istediği alana ulaşır ve tamamlanma durumunu görür.
+- **Hedefli soru pratiği yapabilir:** konu testleri, karışık çözüm ve Hızlı Çöz ile çalışır; çözülmemiş sorulara öncelik verilir.
+- **Sonuçlarını değerlendirebilir:** doğru, yanlış ve boş sayıları; sınav neti, başarı oranı ve çözüm açıklamalarını inceler.
+- **Eksiklerine dönebilir:** hata havuzunda tekrar yapar, soruları daha sonra incelemek üzere kaydeder.
+- **Çalışma düzeni oluşturabilir:** sınav ve puan hedefi belirler; günlük hedefini, çalışma serisini ve takvimini izler.
+- **Motivasyonunu takip edebilir:** haftalık ve genel sıralamalardaki yerini ve sınava kalan süreyi görür.
+- **Hesabını yönetebilir:** paketini inceler, erişim kodu kullanır, destek ister ve hatalı soruları bildirir.
 
-### Öğrenci uygulamasının özellikleri
+### İçerik girişinden daha kapsamlı bir yönetim paneli
 
-#### Sınav hedefi ve düzenli çalışma alanı
+Web paneli; **müfredat ve soru yayını**, **soru bildirimleri**, **kullanıcılar ve roller**, **paketler ve abonelikler**, **kampanya erişim kodları**, **sınav takvimi**, **çalışma serisi işlemleri**, **destek**, **mağaza satış raporları** ve **işlem geçmişini** bir araya getirir.
 
-Öğrenci hedef sınavını seçebilir, hedef puanını ve günlük soru hedefini belirleyebilir. Dersler; konu ve alt konu başlıkları altında düzenlenir. Böylece aday, geniş bir soru havuzu içinde aramak yerine doğrudan çalışmak istediği alana ulaşabilir.
+Sorular hazırlıktan yayına taşınır. Öğrenci geri bildirimi üzerinden soru düzeltilebilir ve bildirim geçmişi korunur. Yöneticiler paketlerdeki özellik erişimini belirler; eğitmenler kendilerine tanımlanan yetkiler kapsamında çalışır.
 
-Türkçe, Matematik, Tarih, Coğrafya, Vatandaşlık ve Güncel Bilgiler gibi alanlar bu yapı içinde sunulur. Konu ilerleme göstergeleri, öğrencinin hangi başlıklarda ne kadar yol aldığını görmesini sağlar.
-
-#### Soru çözümü ve hızlı pratik
-
-Öğrenci ders, konu veya alt konu üzerinden soru çözebilir; karışık çözümle daha geniş bir alanda pratik yapabilir. Karışık çözümde öncelik daha önce cevaplanmamış sorulara verilir. Havuz tamamlandığında sorular yeniden karıştırılarak çalışmaya devam edilebilir.
-
-Hızlı Çöz, bir soru grubuyla başlar ve öğrenci çözdükçe yeni sorular ekler. Sorular seçenekleriyle birlikte sunulur; gerektiğinde görsel de içerebilir. Cevap sonrasında doğru seçenek ve eğitmenin çözüm açıklaması incelenebilir.
-
-“Çıkmışlara Benzer” soru havuzu ayrı bir çalışma alanı sunar. Sınav türü, yıl ve çözülmemiş soru seçenekleriyle uygun içeriklere odaklanılabilir.
-
-#### Sonuç değerlendirmesi ve ilerleme takibi
-
-Çalışma sonunda doğru, yanlış ve boş sayıları; sınav neti ve başarı oranı birlikte gösterilir. Öğrenci oturumu bitirmeden önce soruları yeniden inceleyebilir.
-
-Ders ve konu özetlerinde çözülen soru sayısı, doğru ve yanlış cevaplar, doğruluk oranı ve tamamlanma durumu takip edilir. Cevap geçmişi önceki çalışmalara dönmeyi kolaylaştırır. Aynı sorunun tekrar çözülmesi, konu tamamlanma oranını gereksiz biçimde artırmaz.
-
-#### Hata havuzu ve kaydedilen sorular
-
-Hata havuzu, öğrencinin son cevabı yanlış olan soruları bir araya getirir. Bir soru sonraki çalışmada doğru cevaplandığında bu havuzdan çıkar. Böylece tekrar alanı, henüz giderilmemiş eksiklere odaklanır.
-
-Öğrenci tekrar bakmak istediği soruları kaydedebilir. Hatalarım, Kaydedilenler ve Çıkmışlara Benzer alanlarındaki filtreler, çalışma kapsamını daraltarak daha hedefli tekrar yapılmasını sağlar.
-
-#### Günlük çalışma alışkanlığı ve motivasyon
-
-Günlük soru hedefi, çalışma takvimi ve çalışma serisi düzenli pratiği görünür hale getirir. Öğrenci mevcut serisini, en uzun serisini ve aktif çalışma günlerini takip edebilir. Kullanılabilir seri koruma hakları, ara verilen günlerde çalışma sürekliliğini korumaya yardımcı olur.
-
-Soru pratiği ve günlük hedefler deneyim puanlarına katkı sağlar. Haftalık ve tüm zamanların liderlik sıralamaları, öğrencinin sıralamaya katılan diğer adaylar arasındaki yerini görmesine imkân verir.
-
-#### Sınav takvimi, profil ve destek
-
-Sınav takviminde ilgili sınav tarihleri ve geri sayımlar yer alır. Profil alanı çalışma hedeflerini, kişisel profil tercihlerini ve açık/koyu görünüm seçimini bir araya getirir.
-
-Öğrenci destek başvurusu oluşturabilir, başvuru geçmişini takip edebilir ve ekipten gelen yanıtları okuyabilir. İncelenmesini istediği bir soruyu çözüm ekranından bildirebilir. Hesap ayarlarında şifre yönetimi ve hesabı silme seçenekleri bulunur.
-
-#### Paketler ve erişim kodları
-
-Paket alanında öğrencinin mevcut erişimi ve farklı paketlerde sunulan özellikler gösterilir. Hızlı çözüm, hata havuzu, soru kaydetme ve gelişmiş filtreler gibi seçeneklere erişim, tanımlanan pakete göre yönetilir.
-
-Öğrenci erişim kodu kullanabilir, kod kullanım geçmişini görebilir ve mevcut paketini kontrol edebilir. Uygulamada mağaza aboneliği satın alma ve satın alımları geri yükleme akışları da bulunur.
-
-### Web yönetim panelinin özellikleri
-
-#### Müfredat ve soru bankası yönetimi
-
-Yönetici ve eğitmenler dersleri, konuları ve alt konuları düzenleyebilir; adlarını, sıralamalarını ve kullanılabilirliklerini yönetebilir. İçerik arttıkça çalışma alanının düzenli kalması bu yapı üzerinden sağlanır.
-
-Soru bankasında soru metni, beş seçenek, doğru cevap, çözüm açıklaması ve gerektiğinde görsel hazırlanabilir veya düzenlenebilir. Sorular müfredat, sınav türü, kaynak, yıl ve zorluk düzeyine göre sınıflandırılabilir. Arama ve filtreler ilgili içeriğe ulaşmayı kolaylaştırırken taslak ve yayın durumları öğrenciye sunulan soruları kontrol eder.
-
-Soru zorluğu öğrenci cevaplarına göre belirlenebilir veya ekip tarafından elle düzenlenebilir. Paneldeki değerlendirme bilgileri, gözden geçirilmesi gereken soruların fark edilmesine yardımcı olur.
-
-#### Soru bildirimleri ve içerik kalitesi
-
-Öğrencilerin soru bildirimleri ayrı bir inceleme alanında toplanır. Ekip bildirimleri arayabilir, filtreleyebilir ve yeni, inceleniyor veya sonuçlandı durumlarına taşıyabilir. İlgili soru inceleme ekranından düzenlenebilir.
-
-Bu süreç, öğrenci geri bildirimini içerik iyileştirmesine bağlar. Bildirim sonuçlandırıldıktan sonra geçmişi görüntülenmeye devam eder.
-
-#### Kullanıcılar, roller ve görev dağılımı
-
-Kullanıcı alanında arama, rol ve hesap durumu filtreleri; hesap oluşturma ve düzenleme seçenekleri ile öğrenci, eğitmen ve yönetici sayılarına ilişkin genel görünüm bulunur. Hesapların aktifliği yönetilebilir ve kullanıcının paket erişimi incelenebilir.
-
-Roller öğrenci kullanımını, eğitmen çalışmalarını ve yönetim sorumluluklarını ayırır. Liderlik ayarları, hangi rollerin sıralamalara katılabileceğini belirler.
-
-#### Paket, abonelik ve erişim kodu yönetimi
-
-Yöneticiler paketleri ve her paketin içerdiği özellikleri belirleyebilir. Varsayılan paket seçilebilir, paketlerin aktifliği düzenlenebilir ve mevcut kullanım takip edilebilir.
-
-Kullanıcılara abonelik atanabilir; süre uzatma, paket değiştirme ve iptal işlemleri yapılabilir. Önceki dönemler geçmişte korunur. Paketlere bağlı mağaza teklifleri de panelden yönetilebilir.
-
-Erişim kodu alanında tekil veya toplu kod oluşturma, paketle ilişkilendirme, kullanım geçmişini inceleme, geçici olarak kapatma ve iptal seçenekleri bulunur. Tanıtım ve kampanya erişimleri bu alandan takip edilir.
-
-#### Sınav takvimi ve çalışma serisi yönetimi
-
-Sınav yönetimi alanında sınav türleri ve takvim kayıtları düzenlenir. Başlıklar, tarihler, gösterim sırası ve aktiflik bilgileri güncellenerek mobil uygulamadaki takvim yönetilir.
-
-Çalışma serisi alanında öğrencilerin aktivite takvimleri, günlük sonuçları ve seri koruma hakları incelenebilir. Koruma hakkı tanımlama ve uygun kesintiler için telafi işlemleri önizleme ve onay süreciyle yürütülür; yapılan işlemler geçmişten takip edilebilir.
-
-#### Destek, satışlar ve işlem geçmişi
-
-Destek başvuruları, mesajların incelenebildiği, yanıtlanabildiği ve sonuçlandırılabildiği ayrı bir çalışma alanına sahiptir. Öğrenciler verilen yanıtları kendi başvuru geçmişlerinde görür.
-
-Satışlar alanında mağaza abonelik hareketleri, para birimine göre brüt tutarlar ve iadeler; dönem, platform ve paket bazında incelenebilir. Bu alan uygulamanın ticari süreçlerini takip etmeye yardımcı olur.
-
-İşlem geçmişi; içerikler, hesaplar, paketler ve diğer yönetim alanlarında kaydedilen değişiklikleri izlemeyi sağlar. Hangi işlemi kimin, ne zaman yaptığı ve nelerin değiştiği incelenebilir.
-
-### Uygulama nasıl yönetiliyor?
-
-KPSS ODAK'ın günlük yönetimi tek bir web panelinde toplanır: müfredat düzenlenir, sorular hazırlanıp yayımlanır, öğrenci geri bildirimleri değerlendirilir ve paket erişimleri yönetilir. Öğrenci mobil uygulamada soru pratiği yapar ve gelişimini takip eder. Eğitmen yetkisi kapsamında içerik ve geri bildirim süreçleriyle ilgilenir. Yönetici ise hesapları, rolleri, paketleri ve yönetim geçmişini kontrol eder.
+[Öğrenci deneyimini ve yönetim alanlarını ayrıntılı incele →](docs/PRODUCT_TOUR.md#türkçe)
 
 ### Kullanılan teknolojiler
 
-React Native · Expo · React · TypeScript · .NET · SQL Server
+**Mobil:** React Native · Expo · TypeScript  
+**Web paneli:** React · Vite · Tailwind CSS · TypeScript  
+**Sunucu ve veri:** .NET 9 · C# · ASP.NET Core · Entity Framework Core · SQL Server
+
+### Sistem mimarisi
+
+İki istemci aynı sunucu iş akışlarını ve veriyi kullanır. Sunucu; API, Application, Domain ve Infrastructure katmanlarına ayrılır. Uygulama iş akışları servis ve veri erişim arayüzleriyle çalışır; Infrastructure verinin saklanmasını ve arka plan işlemlerini üstlenir.
+
+```mermaid
+flowchart TB
+    subgraph CLIENTS["İstemciler"]
+        MOBILE["Mobil öğrenci uygulaması<br/>React Native · Expo"]
+        WEB["Web yönetim paneli<br/>React · Vite"]
+    end
+    subgraph BACKEND[".NET · Clean Architecture"]
+        API["KPSS.API<br/>İstekler · Oturum · Yetkiler"]
+        APP["KPSS.Application<br/>Çalışma akışları · İş kuralları"]
+        DOMAIN["KPSS.Domain<br/>Varlıklar · Alan modeli"]
+        INFRA["KPSS.Infrastructure<br/>EF Core · Veri erişimi · Arka plan görevleri"]
+    end
+    DB[("SQL Server")]
+    MOBILE -->|HTTPS| API
+    WEB -->|HTTPS| API
+    API --> APP
+    APP --> DOMAIN
+    APP -->|"Arayüzler üzerinden"| INFRA
+    INFRA --> DOMAIN
+    INFRA --> DB
+    classDef client fill:#e8f0f7,stroke:#213145,color:#142334;
+    classDef core fill:#213145,stroke:#213145,color:#ffffff;
+    classDef storage fill:#fff0e0,stroke:#f08221,color:#142334;
+    class MOBILE,WEB client;
+    class API,APP,DOMAIN,INFRA core;
+    class DB storage;
+```
+
+Oklar istek akışını ve katmanların iş birliğini gösterir; tüm proje bağımlılıklarının dökümü değildir. Domain, çalışma ve yönetim alanlarının temel modellerini tanımlar. Veritabanı erişimi Infrastructure üzerinden yürütülür.
+
+### Veritabanı tasarımı
+
+İlişkisel model; **öğrenme içeriğini**, **öğrenci hareketlerini**, **paket erişimini** ve **yönetim geçmişini** ayrı alanlarda tutar. Böylece soru içeriği öğrenci cevaplarından bağımsız yönetilir; abonelik geçmişi ile güncel erişim birbirine karışmaz.
+
+- **Müfredat:** Subjects → Topics → Subtopics; sorular için Questions ve QuestionOptions.
+- **Öğrenci kayıtları:** Users üzerinden cevap geçmişi, konu özetleri, günlük aktivite, kaydedilen sorular ve XP hareketleri.
+- **Erişim:** SubscriptionPlans ile Features arasındaki PlanFeatures ilişkisi; kullanıcı paket dönemleri için UserSubscriptions.
+- **Yönetim:** soru bildirimleri, destek görüşmeleri, kod kullanımları, mağaza olayları ve işlem geçmişi.
+
+[Dört ilişki diyagramını ve tasarım kararlarını incele →](docs/DATABASE_DESIGN.md#türkçe)
+
+### Bir cevaptan ölçülebilir ilerlemeye
+
+```mermaid
+flowchart LR
+    Q["Soruyu seç"] --> A["Cevabı gönder"]
+    A --> V["Sunucuda değerlendir"]
+    V --> R["Cevap geçmişi"]
+    R --> P["Konu ilerlemesi"]
+    R --> D["Günlük hedef ve seri"]
+    R --> X["Tek seferlik XP"]
+    V --> S["Sonuç ve çözüm"]
+    classDef neutral fill:#e8f0f7,stroke:#213145,color:#142334;
+    classDef active fill:#fff0e0,stroke:#f08221,color:#142334;
+    classDef result fill:#e5f5ee,stroke:#10b981,color:#142334;
+    class Q,A,R neutral;
+    class V active;
+    class P,D,X,S result;
+```
+
+Cevap sunucuda değerlendirilir. Tamamlanma hesabında tekil sorular sayıldığı için tekrar çözüm müfredat ilerlemesini yapay biçimde yükseltmez. Bir soru yalnızca ilk doğru çözümde XP kazandırır. Hata havuzu son cevaba göre değişir; düzeltilen yanlış tekrar listesinden çıkar.
+
+### Deneyimi destekleyen teknik kararlar
+
+**Veri tutarlılığı.** Benzersiz kayıt kuralları, işlemlerin birlikte tamamlanması ve kullanıcı bazlı koordinasyon; paket atamalarını, erişim kodu kullanımını ve tekrarlanan işlemleri korur. Konu özeti, günlük aktivite ve XP geçmişi farklı amaçlar için ayrı tutulur.
+
+**Erişim kontrolü.** Kullanıcı kimliği sunucudaki oturumla belirlenir. Roller yönetim yetkilerini, paket erişimleri ise ücretli özelliklerin kullanımını düzenler. İki karar ayrı değerlendirilir.
+
+**İçerik bütünlüğü.** Doğru cevap ve çözüm açıklaması, cevaplanmamış soruyla birlikte gönderilmez; değerlendirmeden sonra sunulur. Soru veya hesap kaldırıldığında bildirimdeki gerekli geçmiş bilgileri korunur.
+
+**Arka plan işlemleri.** Çalışma serisinin bakımı ve cevaplara göre soru zorluğu güncellemeleri, soru ekranından bağımsız yürütülür. Ekip zorluğu elle de yönetebilir.
+
+**İzlenebilirlik.** Yönetim değişiklikleri, erişim kodu kullanımları ve mağaza abonelik olayları kendi geçmişlerinde izlenir. Paket değişse de önceki abonelik dönemleri görüntülenebilir.
