@@ -15,7 +15,7 @@
 <a href="#-application-screens--uygulama-ekranları">📱 Ekranlar / Screens</a> ·
 <a href="#️-management-modules--yönetim-alanları">🎛️ Yönetim / Management</a> ·
 <a href="#️-technologies-and-architecture--teknolojiler-ve-mimari">🛠️ Teknolojiler / Technologies</a> ·
-<a href="#-database-design--veri-tabanı-tasarımı">🗃️ Veri modeli / Data model</a>
+<a href="#️-database-design--veri-tabanı-tasarımı">🗃️ Veri modeli / Data model</a>
 </p>
 
 **🎯 Uygulamanın amacı**
