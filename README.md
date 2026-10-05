@@ -2,7 +2,7 @@
 
 <h1 align="center">KPSS ODAK</h1>
 
-<p align="center"><strong>Mobile &amp; Web · Mobil ve Web · 2026</strong></p>
+<p align="center"><strong>📱 Mobile &amp; Web · 🖥️ Mobil ve Web · 🗓️ 2026</strong></p>
 
 <p align="center">
 <img src="assets/google-play.svg" alt="Google Play · Android" width="190" />
@@ -11,199 +11,521 @@
 
 <p align="center"><strong>React Native · .NET · SQL Server</strong></p>
 
-**English.** KPSS ODAK brings question practice, curriculum progress, focused revision and study habits together for candidates preparing for Türkiye's Public Personnel Selection Examination. A mobile student application is supported by a web portal for content, users, access packages and daily operations.
+<p align="center">
+<a href="#-application-screens--uygulama-ekranları">📱 Ekranlar / Screens</a> ·
+<a href="#-management-modules--yönetim-alanları">🎛️ Yönetim / Management</a> ·
+<a href="#-technologies-and-architecture--teknolojiler-ve-mimari">🛠️ Teknolojiler / Technologies</a> ·
+<a href="#-database-design--veri-tabanı-tasarımı">🗃️ Veri modeli / Data model</a>
+</p>
 
-**Türkçe.** KPSS ODAK, Kamu Personel Seçme Sınavı'na hazırlanan adaylar için soru pratiğini, müfredat ilerlemesini, hedefli tekrarı ve çalışma alışkanlığını bir araya getirir. Mobil öğrenci uygulamasını; içerik, kullanıcı, paket erişimi ve günlük operasyonları yöneten web paneli tamamlar.
+**🎯 Uygulamanın amacı**
+
+- 🎯 KPSS ODAK, Kamu Personel Seçme Sınavı'na hazırlanan adaylar için soru pratiğini, müfredat ilerlemesini, hedefli tekrarı ve çalışma alışkanlığını bir araya getirir.
+- 📱 Mobil öğrenci uygulamasını; içerik, kullanıcı, paket erişimi ve günlük operasyonları yöneten web paneli tamamlar.
+
+<details>
+<summary>🇬🇧 About the application</summary>
+
+- 🎯 KPSS ODAK brings question practice, curriculum progress, focused revision and study habits together for candidates preparing for Türkiye's Public Personnel Selection Examination.
+- 📱 A mobile student application is supported by a web portal for content, users, access packages and daily operations.
+
+</details>
 
 ---
 
-# Application screens / Uygulama ekranları
+# 📱 Application screens / Uygulama ekranları
 
-## 01 · Home and performance overview / Ana sayfa ve performans özeti
+## 🏠 01 · Home and performance overview / Ana sayfa ve performans özeti
 
 <p align="center"><img src="assets/01-mobile-home.jpeg" alt="Home and performance overview" width="330" /></p>
 
-**English.** The home screen brings solved-question totals, correct and incorrect counts, and success rate together in one performance card. A continuation card returns the student to the last study area, with its current completion and results. Quick-access cards open Mistakes, Questions Similar to Past Exams and Saved Questions; subject cards below show their question counts and progress. The bottom navigation keeps Home, Subjects, Quick Solve, Leaderboard and Profile within reach.
+**🇹🇷 Özellikler**
 
-**Türkçe.** Ana sayfa; toplam çözülen soru, doğru ve yanlış sayıları ile başarı oranını tek performans kartında bir araya getirir. Kaldığın Yerden Devam Et kartı, son çalışılan alandaki ilerleme ve sonuçlarla çalışmaya dönüş sağlar. Hatalarım, Çıkmışlara Benzer ve Kaydedilenler kartları ilgili havuzları açar; alttaki ders kartlarında soru sayıları ve ilerleme görülür. Alt menü Ana Sayfa, Dersler, Hızlı Çöz, Liderlik ve Profil alanlarına erişim sunar.
+- 🏠 Ana sayfa; **çözülen soru, doğru/yanlış sayıları ve başarı oranını** tek performans kartında bir araya getirir.
+- ✅ **Kaldığın Yerden Devam Et** kartı, son çalışılan alandaki ilerleme ve sonuçlarla çalışmaya dönüş sağlar.
+- ⚡ **Hatalarım · Çıkmışlara Benzer · Kaydedilenler** kartları ilgili havuzları açar; alttaki ders kartlarında soru sayıları ve ilerleme görülür.
+- 🧭 Alt menü Ana Sayfa, Dersler, Hızlı Çöz, Liderlik ve Profil alanlarına erişim sunar.
 
-## 02 · Subjects, topics and progress / Dersler, konular ve ilerleme
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 🏠 The home screen brings solved-question totals, correct and incorrect counts, and success rate together in one performance card.
+- ✅ A continuation card returns the student to the last study area, with its current completion and results.
+- ⚡ Quick-access cards open Mistakes, Questions Similar to Past Exams and Saved Questions; subject cards below show their question counts and progress.
+- 🧭 The bottom navigation keeps Home, Subjects, Quick Solve, Leaderboard and Profile within reach.
+
+</details>
+
+---
+
+## 📚 02 · Subjects, topics and progress / Dersler, konular ve ilerleme
 
 <p align="center"><img src="assets/02-curriculum-progress.jpeg" alt="Subjects, topics and progress" width="330" /></p>
 
-**English.** The Subjects screen starts with overall curriculum completion, accuracy, and completed or remaining topics. Expandable subject and topic cards expose the learning hierarchy. Circular topic indicators and subtopic progress bars show completed questions, while Solve and Mixed buttons let students begin focused or broader practice from the same area.
+**🇹🇷 Özellikler**
 
-**Türkçe.** Dersler ekranının üstünde genel müfredat tamamlanması, başarı oranı ve tamamlanan/kalan konu sayıları bulunur. Açılabilir ders ve konu kartları çalışma başlıklarını düzenli bir hiyerarşide sunar. Konulardaki dairesel göstergeler ve alt konulardaki ilerleme çubukları tamamlanan soruları gösterir. Çöz ve Karışık seçenekleriyle aynı alandan hedefli veya daha geniş kapsamlı pratiğe başlanabilir.
+- 📚 Dersler ekranının üstünde **müfredat ilerlemesi, başarı oranı ve tamamlanan/kalan konular** bulunur.
+- ✅ Açılabilir ders ve konu kartları çalışma başlıklarını düzenli bir hiyerarşide sunar.
+- ⚡ Konulardaki dairesel göstergeler ve alt konulardaki ilerleme çubukları tamamlanan soruları gösterir.
+- 🧭 **Çöz** ve **Karışık** seçenekleriyle aynı alandan hedefli veya daha geniş kapsamlı pratiğe başlanabilir.
 
-## 03 · Question solving and answer feedback / Soru çözümü ve cevap değerlendirmesi
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 📚 The Subjects screen starts with overall curriculum completion, accuracy, and completed or remaining topics.
+- ✅ Expandable subject and topic cards expose the learning hierarchy.
+- ⚡ Circular topic indicators and subtopic progress bars show completed questions, while Solve and Mixed buttons let students begin focused or broader practice from the same area.
+
+</details>
+
+---
+
+## ✍️ 03 · Question solving and answer feedback / Soru çözümü ve cevap değerlendirmesi
 
 <p align="center"><img src="assets/03-question-solving.jpeg" alt="Question solving and answer feedback" width="330" /></p>
 
-**English.** The solving screen shows the current question, subject/topic path and a numbered navigator that distinguishes answered, active and blank questions. The question card includes difficulty and points. Answer feedback highlights the correct option, while Save and Report actions remain available in the header. The solution entry opens the explanation, and the next-question control continues the session.
+**🇹🇷 Özellikler**
 
-**Türkçe.** Soru çözüm ekranında mevcut soru, ders/konu yolu ve yanıtlanmış, aktif veya boş soruları ayıran numaralı gezinme alanı yer alır. Soru kartında zorluk ve puan bilgisi gösterilir. Değerlendirme doğru seçeneği belirginleştirir; üst bölümde soru kaydetme ve bildirme eylemleri bulunur. Çözümü Gör alanı açıklamaya erişim sağlar, sonraki soru kontrolü oturumu sürdürür.
+- ✍️ Soru çözüm ekranında mevcut soru, ders/konu yolu ve yanıtlanmış, aktif veya boş soruları ayıran numaralı gezinme alanı yer alır.
+- ✅ Soru kartında **zorluk ve puan** bilgisi gösterilir.
+- ⚡ Değerlendirme doğru seçeneği belirginleştirir; üst bölümde **soru kaydetme ve bildirme** eylemleri bulunur.
+- 🧭 **Çözümü Gör** alanı açıklamaya erişim sağlar, sonraki soru kontrolü oturumu sürdürür.
 
-## 04 · Question statistics / Soru istatistikleri
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- ✍️ The solving screen shows the current question, subject/topic path and a numbered navigator that distinguishes answered, active and blank questions.
+- ✅ The question card includes difficulty and points.
+- ⚡ Answer feedback highlights the correct option, while Save and Report actions remain available in the header.
+- 🧭 The solution entry opens the explanation, and the next-question control continues the session.
+
+</details>
+
+---
+
+## 📊 04 · Question statistics / Soru istatistikleri
 
 <p align="center"><img src="assets/04-question-statistics.jpeg" alt="Question statistics" width="330" /></p>
 
-**English.** The statistics view presents how many people solved the question, its correct-answer rate and the distribution of choices A–E. Bars make the distribution easy to compare, and the correct answer is clearly marked. The numbered question navigator remains visible above, so the student retains context while reviewing the statistics.
+**🇹🇷 Özellikler**
 
-**Türkçe.** İstatistik görünümü soruyu kaç kişinin çözdüğünü, doğru çözme oranını ve A–E seçeneklerinin tercih dağılımını sunar. Çubuklar şık dağılımını karşılaştırmayı kolaylaştırır; doğru cevap ayrıca işaretlenir. Üstteki numaralı soru gezinmesi görünmeye devam ederek istatistik incelenirken soru bağlamını korur.
+- 📊 İstatistik görünümü soruyu kaç kişinin çözdüğünü, doğru çözme oranını ve **A–E seçeneklerinin tercih dağılımını** sunar.
+- ✅ Çubuklar şık dağılımını karşılaştırmayı kolaylaştırır; doğru cevap ayrıca işaretlenir.
+- ⚡ Üstteki numaralı soru gezinmesi görünmeye devam ederek istatistik incelenirken soru bağlamını korur.
 
-## 05 · Mistake pool and focused revision / Hata havuzu ve hedefli tekrar
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 📊 The statistics view presents how many people solved the question, its correct-answer rate and the distribution of choices A–E.
+- ✅ Bars make the distribution easy to compare, and the correct answer is clearly marked.
+- ⚡ The numbered question navigator remains visible above, so the student retains context while reviewing the statistics.
+
+</details>
+
+---
+
+## 🎯 05 · Mistake pool and focused revision / Hata havuzu ve hedefli tekrar
 
 <p align="center"><img src="assets/05-mistake-review.jpeg" alt="Mistake pool and focused revision" width="330" /></p>
 
-**English.** The Mistakes tab groups incorrectly answered questions by subject and topic. Each topic shows its mistake count and a direct Solve action; topics without available mistakes appear inactive. Students can select several topics, select all or clear the selection. The bottom summary updates the selected topic/question totals before starting a mistake-review session.
+**🇹🇷 Özellikler**
 
-**Türkçe.** Hatalarım sekmesi yanlış cevaplanan soruları ders ve konu bazında gruplar. Her konunun hata sayısı ve doğrudan Çöz eylemi bulunur; kullanılabilir hatası olmayan konular pasif görünür. Birden fazla konu seçilebilir, tümü seçilebilir veya seçim temizlenebilir. Alttaki özet, hata çözüm oturumu başlamadan seçilen konu ve soru sayısını gösterir.
+- 🎯 Hatalarım sekmesi yanlış cevaplanan soruları ders ve konu bazında gruplar.
+- ✅ Her konunun hata sayısı ve doğrudan Çöz eylemi bulunur; kullanılabilir hatası olmayan konular pasif görünür.
+- ⚡ **Birden fazla konu** seçilebilir, tümü seçilebilir veya seçim temizlenebilir.
+- 🧭 Alttaki özet, hata çözüm oturumu başlamadan seçilen konu ve soru sayısını gösterir.
 
-## 06 · Past-exam-style questions and custom practice / Çıkmışlara benzer sorular ve özel test
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 🎯 The Mistakes tab groups incorrectly answered questions by subject and topic.
+- ✅ Each topic shows its mistake count and a direct Solve action; topics without available mistakes appear inactive.
+- ⚡ Students can select several topics, select all or clear the selection.
+- 🧭 The bottom summary updates the selected topic/question totals before starting a mistake-review session.
+
+</details>
+
+---
+
+## 📝 06 · Past-exam-style questions and custom practice / Çıkmışlara benzer sorular ve özel test
 
 <p align="center"><img src="assets/06-custom-practice.jpeg" alt="Past-exam-style questions and custom practice" width="330" /></p>
 
-**English.** The Past-Exam-Style Questions tab lists subjects and topics with available question counts. Individual Solve buttons start a topic session. Selecting several topics builds a custom practice set; the bottom bar shows its scope and provides the Create Custom Test action. The same navigation also leads to Mistakes and Saved Questions.
+**🇹🇷 Özellikler**
 
-**Türkçe.** Çıkmışlara Benzer sekmesi dersleri ve konuları kullanılabilir soru sayılarıyla listeler. Konuların yanındaki Çöz düğmeleri doğrudan konu çalışmasını başlatır. Birden fazla konu seçildiğinde özel bir soru grubu hazırlanır; alttaki çubuk seçimin kapsamını gösterir ve Özel Test Oluştur eylemini sunar. Aynı gezinme alanından Hatalarım ve Kaydedilenler sekmelerine geçilebilir.
+- 📝 Çıkmışlara Benzer sekmesi dersleri ve konuları kullanılabilir soru sayılarıyla listeler.
+- ✅ Konuların yanındaki Çöz düğmeleri doğrudan konu çalışmasını başlatır.
+- ⚡ Birden fazla konu seçildiğinde özel bir soru grubu hazırlanır; alttaki çubuk seçimin kapsamını gösterir ve **Özel Test Oluştur** eylemini sunar.
+- 🧭 Aynı gezinme alanından Hatalarım ve Kaydedilenler sekmelerine geçilebilir.
 
-## 07 · Question filters / Soru filtreleri
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 📝 The Past-Exam-Style Questions tab lists subjects and topics with available question counts.
+- ✅ Individual Solve buttons start a topic session.
+- ⚡ Selecting several topics builds a custom practice set; the bottom bar shows its scope and provides the Create Custom Test action.
+- 🧭 The same navigation also leads to Mistakes and Saved Questions.
+
+</details>
+
+---
+
+## 🔎 07 · Question filters / Soru filtreleri
 
 <p align="center"><img src="assets/07-question-filters.jpeg" alt="Question filters" width="330" /></p>
 
-**English.** The filter sheet lets students select exam types and years and choose between all questions or unanswered questions. Selected options are visibly marked. Select All, reset, Cancel and Apply Filters controls make it clear which changes will affect the question pool.
+**🇹🇷 Özellikler**
 
-**Türkçe.** Filtreleme penceresinde sınav türleri ve yılları seçilebilir; tüm sorular veya çözülmemiş sorular arasında tercih yapılabilir. Seçilen seçenekler belirgin biçimde işaretlenir. Tümünü Seç, sıfırlama, Vazgeç ve Filtreleri Uygula kontrolleri, hangi seçimlerin soru havuzuna uygulanacağını anlaşılır kılar.
+- 🔎 Filtreleme penceresinde **sınav türleri ve yılları** seçilebilir; **tüm sorular** veya **çözülmemiş sorular** arasında tercih yapılabilir.
+- ✅ Seçilen seçenekler belirgin biçimde işaretlenir.
+- ⚡ Tümünü Seç, sıfırlama, Vazgeç ve Filtreleri Uygula kontrolleri, hangi seçimlerin soru havuzuna uygulanacağını anlaşılır kılar.
 
-## 08 · Study streak and activity calendar / Çalışma serisi ve aktivite takvimi
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 🔎 The filter sheet lets students select exam types and years and choose between all questions or unanswered questions.
+- ✅ Selected options are visibly marked.
+- ⚡ Select All, reset, Cancel and Apply Filters controls make it clear which changes will affect the question pool.
+
+</details>
+
+---
+
+## 🔥 08 · Study streak and activity calendar / Çalışma serisi ve aktivite takvimi
 
 <p align="center"><img src="assets/08-study-calendar.jpeg" alt="Study streak and activity calendar" width="330" /></p>
 
-**English.** The study calendar shows the current streak, longest streak, total active days and remaining freeze protection. Month navigation lets students inspect earlier or later periods. Completed, frozen and rest days use distinct symbols and colors. Selecting a day reveals its date, solved-question count and activity state.
+**🇹🇷 Özellikler**
 
-**Türkçe.** Çalışma takvimi mevcut seri, en uzun seri, toplam aktif gün ve kalan dondurma kalkanını gösterir. Ay gezinmesiyle farklı dönemler incelenebilir. Tamamlanan, dondurulan ve dinlenme günleri farklı simge ve renklerle ayrılır. Bir gün seçildiğinde tarihi, çözülen soru sayısı ve aktivite durumu görüntülenir.
+- 🔥 Çalışma takvimi **mevcut seri, en uzun seri, aktif günler ve dondurma kalkanını** gösterir.
+- ✅ Ay gezinmesiyle farklı dönemler incelenebilir.
+- ⚡ Tamamlanan, dondurulan ve dinlenme günleri farklı simge ve renklerle ayrılır.
+- 🧭 Bir gün seçildiğinde tarihi, çözülen soru sayısı ve aktivite durumu görüntülenir.
 
-## 09 · Weekly and all-time leaderboard / Haftalık ve tüm zamanlar sıralaması
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 🔥 The study calendar shows the current streak, longest streak, total active days and remaining freeze protection.
+- ✅ Month navigation lets students inspect earlier or later periods.
+- ⚡ Completed, frozen and rest days use distinct symbols and colors.
+- 🧭 Selecting a day reveals its date, solved-question count and activity state.
+
+</details>
+
+---
+
+## 🏆 09 · Weekly and all-time leaderboard / Haftalık ve tüm zamanlar sıralaması
 
 <p align="center"><img src="assets/09-leaderboard.jpeg" alt="Weekly and all-time leaderboard" width="330" /></p>
 
-**English.** The Leaderboard screen switches between weekly and all-time views. A podium highlights the top three users with avatars and points; the list below presents the remaining ranks. The current student's position is called out in the podium or ranking context, making progress in the competition easy to follow.
+**🇹🇷 Özellikler**
 
-**Türkçe.** Liderlik ekranında haftalık ve tüm zamanlar görünümleri arasında geçiş yapılır. Podyum ilk üç kullanıcıyı profil görselleri ve puanlarıyla öne çıkarır; alt liste diğer sıraları gösterir. Öğrencinin kendi konumu podyumda veya sıralama bağlamında vurgulanarak rekabetteki gelişimini takip etmesi kolaylaştırılır.
+- 🏆 Liderlik ekranında **haftalık** ve **tüm zamanlar** görünümleri arasında geçiş yapılır.
+- ✅ Podyum **ilk üç kullanıcıyı** profil görselleri ve puanlarıyla öne çıkarır; alt liste diğer sıraları gösterir.
+- ⚡ Öğrencinin kendi konumu podyumda veya sıralama bağlamında vurgulanarak rekabetteki gelişimini takip etmesi kolaylaştırılır.
 
+<details>
+<summary>🇬🇧 Features in English</summary>
 
-## 10 · Web administration dashboard / Web yönetim paneli
+- 🏆 The Leaderboard screen switches between weekly and all-time views.
+- ✅ A podium highlights the top three users with avatars and points; the list below presents the remaining ranks.
+- ⚡ The current student's position is called out in the podium or ranking context, making progress in the competition easy to follow.
+
+</details>
+
+---
+
+## 🖥️ 10 · Web administration dashboard / Web yönetim paneli
 
 ![Web administration dashboard](assets/10-admin-dashboard.png)
 
-**English.** The overview screen shows total users, subjects, topics, subtopics and question-bank size. Role distribution separates students, instructors and administrators; subject distribution shows question density across the curriculum. Quick links lead from the summary cards to management areas. The sidebar groups content, user management, subscriptions and operations, with badges for pending question reports and support requests. The header shows navigation context, appearance controls and the current staff account.
+**🇹🇷 Özellikler**
 
-**Türkçe.** Genel Bakış ekranında toplam kullanıcı, ders, konu, alt konu ve soru havuzu büyüklüğü gösterilir. Rol dağılımı öğrenci, eğitmen ve yöneticileri ayırır; ders dağılımı müfredattaki soru yoğunluğunu gösterir. Özet kartlarından ilgili yönetim alanlarına geçilebilir. Yan menü içerik, kullanıcı yönetimi, abonelik ve operasyon alanlarını gruplar; soru bildirimleri ile destek başvurularında bekleyen kayıt rozetleri bulunur. Üst bölüm gezinme bağlamını, görünüm seçeneklerini ve oturumdaki personel hesabını gösterir.
+- 🖥️ Genel Bakış ekranında toplam kullanıcı, ders, konu, alt konu ve soru havuzu büyüklüğü gösterilir.
+- ✅ Rol dağılımı öğrenci, eğitmen ve yöneticileri ayırır; ders dağılımı müfredattaki soru yoğunluğunu gösterir.
+- ⚡ Özet kartlarından ilgili yönetim alanlarına geçilebilir.
+- 🧭 Yan menü içerik, kullanıcı yönetimi, abonelik ve operasyon alanlarını gruplar; soru bildirimleri ile destek başvurularında bekleyen kayıt rozetleri bulunur.
+- 🖥️ Üst bölüm gezinme bağlamını, görünüm seçeneklerini ve oturumdaki personel hesabını gösterir.
 
+<details>
+<summary>🇬🇧 Features in English</summary>
 
-## Management modules / Yönetim alanları
+- 🖥️ The overview screen shows total users, subjects, topics, subtopics and question-bank size.
+- ✅ Role distribution separates students, instructors and administrators; subject distribution shows question density across the curriculum.
+- ⚡ Quick links lead from the summary cards to management areas.
+- 🧭 The sidebar groups content, user management, subscriptions and operations, with badges for pending question reports and support requests.
+- 🖥️ The header shows navigation context, appearance controls and the current staff account.
 
-### 01 · General overview / Genel Bakış
+</details>
 
-**English.** Summary cards show users, subjects, topics, subtopics and question-bank size. Role distribution shows the composition of the user base, while subject distribution shows where questions are concentrated. Links from cards and distribution sections lead into the relevant management areas.
-
-**Türkçe.** Özet kartları kullanıcı, ders, konu, alt konu ve soru havuzu büyüklüğünü gösterir. Rol dağılımı kullanıcı kitlesini, ders dağılımı soruların müfredattaki yoğunluğunu görünür kılar. Kartlardan ve dağılım alanlarından ilgili yönetim sayfalarına geçilir.
-
-### 02 · Curriculum management / Müfredat Yönetimi
-
-**English.** Staff create and maintain subjects, topics and subtopics, arrange their display order and control availability. Updating a curriculum title preserves its existing question relationships. The hierarchy provides a clear route from broad subjects to specific practice areas.
-
-**Türkçe.** Dersler, konular ve alt konular oluşturulur ve düzenlenir; gösterim sırası ve aktiflik yönetilir. Başlık güncellemeleri mevcut soru ilişkilerini korur. Hiyerarşi, genel dersten belirli çalışma alanına düzenli bir geçiş sağlar.
-
-### 03 · Question bank / Soru Bankası
-
-**English.** The panel supports question text, five choices, the correct answer, explanation and optional visual content. Exam type, source, year, difficulty, target duration and points can be maintained. Staff search and filter content, inspect curriculum question counts, and save questions as drafts or publish them. Difficulty can use student answer results or a manual selection; review information helps identify unusually difficult questions.
-
-**Türkçe.** Soru metni, beş seçenek, doğru cevap, çözüm açıklaması ve isteğe bağlı görsel hazırlanır. Sınav türü, kaynak, yıl, zorluk, hedef süre ve puan bilgileri düzenlenir. Arama ve filtreler içerik bulmayı kolaylaştırır; müfredat alanlarında soru sayıları görülebilir. Sorular taslak kaydedilebilir veya yayımlanabilir. Zorluk öğrenci sonuçlarına göre veya elle belirlenir; değerlendirme bilgileri incelenmesi gereken soruları fark etmeyi sağlar.
-
-### 04 · Question reports / Soru Bildirimleri
-
-**English.** Student reports are searched and filtered in a dedicated review queue. New, under-review and resolved states track the workflow. The full question editor is accessible from the review area, allowing content correction without losing the original report history. Pending counts appear in the menu.
-
-**Türkçe.** Öğrenci bildirimleri ayrı inceleme alanında aranır ve filtrelenir. Yeni, inceleniyor ve sonuçlandı durumları süreci takip eder. İnceleme alanından tam soru düzenleyicisine erişilerek içerik düzeltilebilir; bildirim geçmişi korunur. Açık bildirim sayısı menüde gösterilir.
-
-### 05 · Exam management / Sınav Yönetimi
-
-**English.** Staff manage exam types and calendar records, including titles, dates, ordering and availability. Calendar entries can be deactivated and reactivated. These records supply the exam information and countdowns used by students.
-
-**Türkçe.** Sınav türleri ve takvim kayıtları; başlık, tarih, sıra ve aktiflik bilgileriyle yönetilir. Takvim kayıtları pasife alınabilir ve tekrar etkinleştirilebilir. Öğrencilerin sınav bilgileri ve geri sayımları bu kayıtlar üzerinden sunulur.
-
-### 06 · Users / Kullanıcılar
-
-**English.** Search and role, status and package filters help staff locate users. Accounts can be created and edited, with role and active status maintained. User counters summarize students, instructors and administrators, and the interface provides CSV export. A user's package action opens current access, assignment controls and subscription history.
-
-**Türkçe.** Arama, rol, hesap durumu ve paket filtreleri kullanıcıya ulaşmayı kolaylaştırır. Hesap oluşturma ve düzenleme, rol atama ve aktiflik yönetimi yapılır. Sayaçlar öğrenci, eğitmen ve yönetici dağılımını özetler; arayüz CSV dışa aktarma seçeneği sunar. Kullanıcının paket eylemi mevcut erişimi, atama seçeneklerini ve abonelik geçmişini açar.
-
-### 07 · Roles / Roller
-
-**English.** Roles have a name, description, icon and permission level. Staff can create and edit roles within their permissions. Default roles and roles assigned to users are protected from deletion. This separates student participation, instructional responsibilities and administration.
-
-**Türkçe.** Roller ad, açıklama, simge ve yetki seviyesiyle tanımlanır. Yetki kapsamında rol oluşturulur ve düzenlenir. Varsayılan roller ve kullanıcıların bağlı olduğu roller silinmeye karşı korunur. Öğrenci kullanımı, eğitmen sorumlulukları ve yönetim bu alanla ayrılır.
-
-### 08 · Leaderboard settings / Liderlik Ayarları
-
-**English.** Leaderboard eligibility is controlled per role in a separate management area. Staff determine which groups participate in ranking, while students see weekly and all-time results in the mobile application.
-
-**Türkçe.** Sıralamaya katılım rol bazında ayrı bir yönetim alanından düzenlenir. Hangi grupların liderlik sıralamasına dahil olacağı belirlenir; öğrenciler mobilde haftalık ve tüm zamanlar sonuçlarını görür.
-
-### 09 · Study streak and freeze protection / Streak / Freeze
-
-**English.** Administrators review user activity, daily results, monthly calendars, streak status and protection balances. Search and filters narrow the group. Individual or bulk protection grants and eligible interruption compensation are previewed before confirmation. Operation history tracks outcomes and supports following up completed or interrupted work.
-
-**Türkçe.** Yöneticiler kullanıcı aktivitesini, günlük sonuçları, aylık takvimi, seri durumunu ve koruma haklarını inceler. Arama ve filtrelerle kapsam daraltılır. Tekil veya toplu koruma hakkı tanımlama ve uygun kesinti telafileri, onay öncesi önizlemeyle değerlendirilir. İşlem geçmişi sonuçları takip eder ve tamamlanan veya kesintiye uğrayan çalışmanın izlenmesini sağlar.
-
-### 10 · Subscriptions and feature access / Abonelikler
-
-**English.** Packages and features are maintained separately, then connected to define what each package includes. Administrators set the default package, manage availability and review usage. User access can be assigned, extended, changed or cancelled, keeping previous periods in history. Store offers attached to packages can also be managed.
-
-**Türkçe.** Paketler ve özellikler ayrı yönetilir; eşleştirilerek her paketin kapsamı belirlenir. Varsayılan paket, aktiflik ve kullanım bilgileri düzenlenir. Kullanıcıya erişim atanabilir, süre uzatılabilir, paket değiştirilebilir veya iptal edilebilir; önceki dönemler geçmişte kalır. Paketlere bağlı mağaza teklifleri de yönetilebilir.
-
-### 11 · Access codes / Erişim Kodları
-
-**English.** Administrators create individual or batch promotional codes, associate access with a package, search and filter codes, inspect usage history, temporarily deactivate codes or revoke them with a reason. Students redeem codes from their package area; granted access and code history remain distinguishable from store purchases.
-
-**Türkçe.** Tekil veya toplu kampanya kodları oluşturulur, erişim paketle ilişkilendirilir. Kodlar aranır ve filtrelenir; kullanım geçmişi incelenir. Kod geçici kapatılabilir veya gerekçeyle iptal edilebilir. Öğrenci kodu paket alanında kullanır; verilen erişim ve kod geçmişi mağaza satın alımlarından ayrı takip edilir.
-
-### 12 · Sales and revenue / Satışlar / Gelir
-
-**English.** Store subscription events can be reviewed by period, platform, package and event type. Reports show currency-specific gross amounts, refunds and trends. Test-store events are excluded from real sales totals. Promotional codes and administrative grants are not classified as store sales.
-
-**Türkçe.** Mağaza abonelik hareketleri dönem, platform, paket ve olay türüne göre incelenir. Raporlarda para birimine göre brüt tutarlar, iadeler ve eğilimler gösterilir. Test mağazası olayları gerçek satış toplamlarına dahil edilmez. Kampanya kodları ve yönetici atamaları mağaza satışı sayılmaz.
-
-### 13 · Support requests / Destek Başvuruları
-
-**English.** The workspace combines a request list with an inspection area, pending/resolved counters and a menu badge. Staff read the original request and follow-up message, reply and resolve the case. A staff reply can be edited later, with its update time shown. Students read the response in their own request history.
-
-**Türkçe.** Liste ve inceleme alanını bir araya getiren çalışma alanında bekleyen/sonuçlanan sayaçları ve menü rozeti bulunur. Ekip ilk başvuruyu ve ek mesajı okuyabilir, yanıt yazabilir ve başvuruyu sonuçlandırabilir. Yanıt daha sonra güncellenebilir; düzenleme zamanı gösterilir. Öğrenci cevabı kendi başvuru geçmişinden okur.
-
-### 14 · Operation history / İşlem Geçmişi
-
-**English.** Saved management changes can be filtered by actor, date, module and action. Details show the affected area and previous/new values where appropriate. This supports reviewing changes across users, roles, content, subscriptions, access codes and other managed areas without turning the log into an editable workspace.
-
-**Türkçe.** Kaydedilen yönetim değişiklikleri kişi, tarih, modül ve işlem türüne göre filtrelenir. Ayrıntılar etkilenen alanı ve uygun kayıtlar için eski/yeni değerleri gösterir. Kullanıcılar, roller, içerikler, abonelikler, kodlar ve diğer alanlardaki değişiklikler izlenir; geçmiş düzenlenebilir bir çalışma alanı olarak kullanılmaz.
-
-### 15 · Settings and panel navigation / Ayarlar ve panel kullanımı
-
-**English.** The panel provides a settings area, light/dark/system appearance controls, a collapsible sidebar and breadcrumb navigation. Pending-report badges keep operational work visible. The current staff account and sign-out action remain in the header. Module access follows the staff member's permissions.
-
-**Türkçe.** Panelde Ayarlar alanı, açık/koyu/sistem görünümü, daraltılabilir yan menü ve konumu gösteren gezinme yolu bulunur. Bekleyen kayıt rozetleri operasyonel işleri görünür kılar. Oturumdaki personel hesabı ve çıkış eylemi üst bölümde yer alır. Modüllere erişim personelin yetkilerine göre düzenlenir.
 ---
 
-# Technologies and architecture / Teknolojiler ve mimari
+## 🎛️ Management modules / Yönetim alanları
 
-**Mobile / Mobil:** React Native · Expo · TypeScript  
-**Web:** React · Vite · Tailwind CSS · TypeScript  
-**Backend / Sunucu:** .NET 9 · C# · ASP.NET Core · Entity Framework Core  
-**Database / Veri tabanı:** SQL Server
+### 📊 01 · General overview / Genel Bakış
 
-**English.** The mobile application and web portal share the same backend. API, Application, Domain and Infrastructure layers separate requests, business workflows, core entities and persistence. Staff permissions and student package access are evaluated separately.
+**🇹🇷 Özellikler**
 
-**Türkçe.** Mobil uygulama ve web paneli aynı sunucuyu kullanır. API, Application, Domain ve Infrastructure katmanları istekleri, iş akışlarını, temel varlıkları ve veri erişimini ayırır. Personelin yönetim yetkileri ile öğrencinin paket erişimi ayrı değerlendirilir.
+- 📊 Özet kartları kullanıcı, ders, konu, alt konu ve soru havuzu büyüklüğünü gösterir.
+- ✅ Rol dağılımı kullanıcı kitlesini, ders dağılımı soruların müfredattaki yoğunluğunu görünür kılar.
+- 🔎 Kartlardan ve dağılım alanlarından ilgili yönetim sayfalarına geçilir.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 📊 Summary cards show users, subjects, topics, subtopics and question-bank size.
+- ✅ Role distribution shows the composition of the user base, while subject distribution shows where questions are concentrated.
+- 🔎 Links from cards and distribution sections lead into the relevant management areas.
+
+</details>### 📚 02 · Curriculum management / Müfredat Yönetimi
+
+**🇹🇷 Özellikler**
+
+- 📚 Dersler, konular ve alt konular oluşturulur ve düzenlenir; gösterim sırası ve aktiflik yönetilir.
+- ✅ Başlık güncellemeleri mevcut soru ilişkilerini korur.
+- 🔎 Hiyerarşi, genel dersten belirli çalışma alanına düzenli bir geçiş sağlar.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 📚 Staff create and maintain subjects, topics and subtopics, arrange their display order and control availability.
+- ✅ Updating a curriculum title preserves its existing question relationships.
+- 🔎 The hierarchy provides a clear route from broad subjects to specific practice areas.
+
+</details>### 📝 03 · Question bank / Soru Bankası
+
+**🇹🇷 Özellikler**
+
+- 📝 Soru metni, beş seçenek, doğru cevap, çözüm açıklaması ve isteğe bağlı görsel hazırlanır.
+- ✅ Sınav türü, kaynak, yıl, zorluk, hedef süre ve puan bilgileri düzenlenir.
+- 🔎 Arama ve filtreler içerik bulmayı kolaylaştırır; müfredat alanlarında soru sayıları görülebilir.
+- 🛡️ Sorular **taslak kaydedilebilir veya yayımlanabilir**.
+- 📝 Zorluk öğrenci sonuçlarına göre veya elle belirlenir; değerlendirme bilgileri incelenmesi gereken soruları fark etmeyi sağlar.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 📝 The panel supports question text, five choices, the correct answer, explanation and optional visual content.
+- ✅ Exam type, source, year, difficulty, target duration and points can be maintained.
+- 🔎 Staff search and filter content, inspect curriculum question counts, and save questions as drafts or publish them.
+- 🛡️ Difficulty can use student answer results or a manual selection; review information helps identify unusually difficult questions.
+
+</details>### 🚩 04 · Question reports / Soru Bildirimleri
+
+**🇹🇷 Özellikler**
+
+- 🚩 Öğrenci bildirimleri ayrı inceleme alanında aranır ve filtrelenir.
+- ✅ **Yeni · İnceleniyor · Sonuçlandı** durumları süreci takip eder.
+- 🔎 İnceleme alanından tam soru düzenleyicisine erişilerek içerik düzeltilebilir; bildirim geçmişi korunur.
+- 🛡️ Açık bildirim sayısı menüde gösterilir.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 🚩 Student reports are searched and filtered in a dedicated review queue.
+- ✅ New, under-review and resolved states track the workflow.
+- 🔎 The full question editor is accessible from the review area, allowing content correction without losing the original report history.
+- 🛡️ Pending counts appear in the menu.
+
+</details>### 🗓️ 05 · Exam management / Sınav Yönetimi
+
+**🇹🇷 Özellikler**
+
+- 🗓️ Sınav türleri ve takvim kayıtları; başlık, tarih, sıra ve aktiflik bilgileriyle yönetilir.
+- ✅ Takvim kayıtları pasife alınabilir ve tekrar etkinleştirilebilir.
+- 🔎 Öğrencilerin sınav bilgileri ve geri sayımları bu kayıtlar üzerinden sunulur.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 🗓️ Staff manage exam types and calendar records, including titles, dates, ordering and availability.
+- ✅ Calendar entries can be deactivated and reactivated.
+- 🔎 These records supply the exam information and countdowns used by students.
+
+</details>### 👥 06 · Users / Kullanıcılar
+
+**🇹🇷 Özellikler**
+
+- 👥 Arama, rol, hesap durumu ve paket filtreleri kullanıcıya ulaşmayı kolaylaştırır.
+- ✅ Hesap oluşturma ve düzenleme, rol atama ve aktiflik yönetimi yapılır.
+- 🔎 Sayaçlar öğrenci, eğitmen ve yönetici dağılımını özetler; arayüz **CSV dışa aktarma** seçeneği sunar.
+- 🛡️ Kullanıcının paket eylemi mevcut erişimi, atama seçeneklerini ve abonelik geçmişini açar.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 👥 Search and role, status and package filters help staff locate users.
+- ✅ Accounts can be created and edited, with role and active status maintained.
+- 🔎 User counters summarize students, instructors and administrators, and the interface provides CSV export.
+- 🛡️ A user's package action opens current access, assignment controls and subscription history.
+
+</details>### 🛡️ 07 · Roles / Roller
+
+**🇹🇷 Özellikler**
+
+- 🛡️ Roller ad, açıklama, simge ve yetki seviyesiyle tanımlanır.
+- ✅ Yetki kapsamında rol oluşturulur ve düzenlenir.
+- 🔎 Varsayılan roller ve kullanıcıların bağlı olduğu roller silinmeye karşı korunur.
+- 🛡️ Öğrenci kullanımı, eğitmen sorumlulukları ve yönetim bu alanla ayrılır.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 🛡️ Roles have a name, description, icon and permission level.
+- ✅ Staff can create and edit roles within their permissions.
+- 🔎 Default roles and roles assigned to users are protected from deletion.
+- 🛡️ This separates student participation, instructional responsibilities and administration.
+
+</details>### 🏆 08 · Leaderboard settings / Liderlik Ayarları
+
+**🇹🇷 Özellikler**
+
+- 🏆 Sıralamaya katılım rol bazında ayrı bir yönetim alanından düzenlenir.
+- ✅ Hangi grupların liderlik sıralamasına dahil olacağı belirlenir; öğrenciler mobilde **haftalık** ve **tüm zamanlar** sonuçlarını görür.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 🏆 Leaderboard eligibility is controlled per role in a separate management area.
+- ✅ Staff determine which groups participate in ranking, while students see weekly and all-time results in the mobile application.
+
+</details>### ❄️ 09 · Study streak and freeze protection / Streak / Freeze
+
+**🇹🇷 Özellikler**
+
+- ❄️ Yöneticiler kullanıcı aktivitesini, günlük sonuçları, aylık takvimi, seri durumunu ve koruma haklarını inceler.
+- ✅ Arama ve filtrelerle kapsam daraltılır.
+- 🔎 **Tekil veya toplu** koruma hakkı tanımlama ve uygun kesinti telafileri, onay öncesi önizlemeyle değerlendirilir.
+- 🛡️ İşlem geçmişi sonuçları takip eder ve tamamlanan veya kesintiye uğrayan çalışmanın izlenmesini sağlar.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- ❄️ Administrators review user activity, daily results, monthly calendars, streak status and protection balances.
+- ✅ Search and filters narrow the group.
+- 🔎 Individual or bulk protection grants and eligible interruption compensation are previewed before confirmation.
+- 🛡️ Operation history tracks outcomes and supports following up completed or interrupted work.
+
+</details>### 💎 10 · Subscriptions and feature access / Abonelikler
+
+**🇹🇷 Özellikler**
+
+- 💎 Paketler ve özellikler ayrı yönetilir; eşleştirilerek her paketin kapsamı belirlenir.
+- ✅ Varsayılan paket, aktiflik ve kullanım bilgileri düzenlenir.
+- 🔎 Kullanıcıya erişim atanabilir, süre uzatılabilir, paket değiştirilebilir veya iptal edilebilir; önceki dönemler geçmişte kalır.
+- 🛡️ Paketlere bağlı mağaza teklifleri de yönetilebilir.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 💎 Packages and features are maintained separately, then connected to define what each package includes.
+- ✅ Administrators set the default package, manage availability and review usage.
+- 🔎 User access can be assigned, extended, changed or cancelled, keeping previous periods in history.
+- 🛡️ Store offers attached to packages can also be managed.
+
+</details>### 🔑 11 · Access codes / Erişim Kodları
+
+**🇹🇷 Özellikler**
+
+- 🔑 **Tekil veya toplu** kampanya kodları oluşturulur, erişim paketle ilişkilendirilir.
+- ✅ Kodlar aranır ve filtrelenir; kullanım geçmişi incelenir.
+- 🔎 Kod geçici kapatılabilir veya gerekçeyle iptal edilebilir.
+- 🛡️ Öğrenci kodu paket alanında kullanır; verilen erişim ve kod geçmişi mağaza satın alımlarından ayrı takip edilir.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 🔑 Administrators create individual or batch promotional codes, associate access with a package, search and filter codes, inspect usage history, temporarily deactivate codes or revoke them with a reason.
+- ✅ Students redeem codes from their package area; granted access and code history remain distinguishable from store purchases.
+
+</details>### 💰 12 · Sales and revenue / Satışlar / Gelir
+
+**🇹🇷 Özellikler**
+
+- 💰 Mağaza abonelik hareketleri dönem, platform, paket ve olay türüne göre incelenir.
+- ✅ Raporlarda para birimine göre brüt tutarlar, iadeler ve eğilimler gösterilir.
+- 🔎 Test mağazası olayları gerçek satış toplamlarına dahil edilmez.
+- 🛡️ Kampanya kodları ve yönetici atamaları mağaza satışı sayılmaz.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 💰 Store subscription events can be reviewed by period, platform, package and event type.
+- ✅ Reports show currency-specific gross amounts, refunds and trends.
+- 🔎 Test-store events are excluded from real sales totals.
+- 🛡️ Promotional codes and administrative grants are not classified as store sales.
+
+</details>### 💬 13 · Support requests / Destek Başvuruları
+
+**🇹🇷 Özellikler**
+
+- 💬 Liste ve inceleme alanını bir araya getiren çalışma alanında bekleyen/sonuçlanan sayaçları ve menü rozeti bulunur.
+- ✅ Ekip ilk başvuruyu ve ek mesajı okuyabilir, yanıt yazabilir ve başvuruyu sonuçlandırabilir.
+- 🔎 Yanıt daha sonra güncellenebilir; düzenleme zamanı gösterilir.
+- 🛡️ Öğrenci cevabı kendi başvuru geçmişinden okur.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 💬 The workspace combines a request list with an inspection area, pending/resolved counters and a menu badge.
+- ✅ Staff read the original request and follow-up message, reply and resolve the case.
+- 🔎 A staff reply can be edited later, with its update time shown.
+- 🛡️ Students read the response in their own request history.
+
+</details>### 🕘 14 · Operation history / İşlem Geçmişi
+
+**🇹🇷 Özellikler**
+
+- 🕘 Kaydedilen yönetim değişiklikleri **kişi, tarih, modül ve işlem türüne göre** filtrelenir.
+- ✅ Ayrıntılar etkilenen alanı ve uygun kayıtlar için eski/yeni değerleri gösterir.
+- 🔎 Kullanıcılar, roller, içerikler, abonelikler, kodlar ve diğer alanlardaki değişiklikler izlenir; geçmiş düzenlenebilir bir çalışma alanı olarak kullanılmaz.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 🕘 Saved management changes can be filtered by actor, date, module and action.
+- ✅ Details show the affected area and previous/new values where appropriate.
+- 🔎 This supports reviewing changes across users, roles, content, subscriptions, access codes and other managed areas without turning the log into an editable workspace.
+
+</details>### ⚙️ 15 · Settings and panel navigation / Ayarlar ve panel kullanımı
+
+**🇹🇷 Özellikler**
+
+- ⚙️ Panelde Ayarlar alanı, **açık/koyu/sistem görünümü**, daraltılabilir yan menü ve konumu gösteren gezinme yolu bulunur.
+- ✅ Bekleyen kayıt rozetleri operasyonel işleri görünür kılar.
+- 🔎 Oturumdaki personel hesabı ve çıkış eylemi üst bölümde yer alır.
+- 🛡️ Modüllere erişim personelin yetkilerine göre düzenlenir.
+---
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- ⚙️ The panel provides a settings area, light/dark/system appearance controls, a collapsible sidebar and breadcrumb navigation.
+- ✅ Pending-report badges keep operational work visible.
+- 🔎 The current staff account and sign-out action remain in the header.
+- 🛡️ Module access follows the staff member's permissions.
+
+</details># 🛠️ Technologies and architecture / Teknolojiler ve mimari
+
+**📱 Mobile / Mobil:** React Native · Expo · TypeScript  
+**🖥️ Web:** React · Vite · Tailwind CSS · TypeScript  
+**⚙️ Backend / Sunucu:** .NET 9 · C# · ASP.NET Core · Entity Framework Core  
+**🗄️ Database / Veri tabanı:** SQL Server
+
+**🇹🇷 Özellikler**
+
+- 🔹 Mobil uygulama ve web paneli aynı sunucuyu kullanır.
+- 🔸 API, Application, Domain ve Infrastructure katmanları istekleri, iş akışlarını, temel varlıkları ve veri erişimini ayırır.
+- ✅ Personelin yönetim yetkileri ile öğrencinin paket erişimi ayrı değerlendirilir.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 🔹 The mobile application and web portal share the same backend.
+- 🔸 API, Application, Domain and Infrastructure layers separate requests, business workflows, core entities and persistence.
+- ✅ Staff permissions and student package access are evaluated separately.
+
+</details>
 
 ```mermaid
 flowchart TB
@@ -233,7 +555,7 @@ flowchart TB
     class DB storage;
 ```
 
-## Answer and progress workflow / Cevap ve ilerleme akışı
+## 🔄 Answer and progress workflow / Cevap ve ilerleme akışı
 
 ```mermaid
 flowchart LR
@@ -252,19 +574,37 @@ flowchart LR
     class P,D,X,S result;
 ```
 
-**English.** The server evaluates an answer, saves the attempt and updates topic progress, daily activity and eligible XP. Repeated attempts do not inflate distinct-question completion; XP is earned once for the first correct solution. The mistake pool follows the student's latest answer.
+**🇹🇷 Özellikler**
 
-**Türkçe.** Sunucu cevabı değerlendirir, denemeyi kaydeder ve konu ilerlemesini, günlük aktiviteyi ve uygun XP kazanımını günceller. Tekrar çözümleri tekil soru tamamlanmasını artırmaz; ilk doğru çözüm için puan bir kez kazanılır. Hata havuzu öğrencinin en son cevabına göre oluşur.
+- 🔹 Sunucu cevabı değerlendirir, denemeyi kaydeder ve konu ilerlemesini, günlük aktiviteyi ve uygun XP kazanımını günceller.
+- 🔸 Tekrar çözümleri tekil soru tamamlanmasını artırmaz; ilk doğru çözüm için puan bir kez kazanılır.
+- ✅ Hata havuzu öğrencinin en son cevabına göre oluşur.
 
-# Database design / Veri tabanı tasarımı
+<details>
+<summary>🇬🇧 Features in English</summary>
 
-**English.** SQL Server stores learning content, student activity, package access and management history separately. These four diagrams show selected entities and key fields, with simplified logical types.
+- 🔹 The server evaluates an answer, saves the attempt and updates topic progress, daily activity and eligible XP.
+- 🔸 Repeated attempts do not inflate distinct-question completion; XP is earned once for the first correct solution.
+- ✅ The mistake pool follows the student's latest answer.
 
-**Türkçe.** SQL Server modelinde öğrenme içeriği, öğrenci aktivitesi, paket erişimi ve yönetim geçmişi ayrı tutulur. Dört diyagram seçilmiş varlıkları ve temel alanları sadeleştirilmiş veri tipleriyle gösterir.
+</details># 🗃️ Database design / Veri tabanı tasarımı
+
+**🇹🇷 Özellikler**
+
+- 🔹 SQL Server modelinde öğrenme içeriği, öğrenci aktivitesi, paket erişimi ve yönetim geçmişi ayrı tutulur.
+- 🔸 Dört diyagram seçilmiş varlıkları ve temel alanları sadeleştirilmiş veri tipleriyle gösterir.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 🔹 SQL Server stores learning content, student activity, package access and management history separately.
+- 🔸 These four diagrams show selected entities and key fields, with simplified logical types.
+
+</details>
 
 **PK:** Primary key / Birincil anahtar · **FK:** Foreign key / Yabancı anahtar · **UK:** Unique key / Benzersiz anahtar
 
-### 1 · Curriculum and question content / Müfredat ve soru içeriği
+### 📚 1 · Curriculum and question content / Müfredat ve soru içeriği
 
 ```mermaid
 erDiagram
@@ -326,7 +666,7 @@ QuestionCode, yönetim ve bildirim süreçlerinde kullanılabilecek benzersiz so
 
 **Sınav takvimi:** ExamSchedules tarihleri, başlıkları ve aktifliği saklar. Belgelenen tasarımda sınav türü ile takvim ortak kod üzerinden eşleşir; mevcut olmayan bir yabancı anahtar bağlantısı çizilmemiştir.
 
-### 2 · Student practice, progress and motivation / Öğrenci pratiği, ilerleme ve motivasyon
+### 📈 2 · Student practice, progress and motivation / Öğrenci pratiği, ilerleme ve motivasyon
 
 ```mermaid
 erDiagram
@@ -395,7 +735,7 @@ Bu ayrım, geçmiş cevapları değiştirmeden konu ilerlemesini ve günlük ça
 **XP tutarlılığı:** soru yalnız ilk doğru çözümde puan kazandırır; puan kaynağı üzerinden mükerrer kazanım engellenir.  
 **Seri takibi:** günlük aktivite ve kullanıcının seri/koruma değerleri takvimi ve ara verilen günlerin korunmasını destekler.
 
-### 3 · Roles, packages and feature access / Roller, paketler ve özellik erişimi
+### 🔐 3 · Roles, packages and feature access / Roller, paketler ve özellik erişimi
 
 ```mermaid
 erDiagram
@@ -459,7 +799,7 @@ UserSubscriptions kullanıcının paket dönemlerini saklar. Başlangıç, biti�
 **İlişki bütünlüğü:** aynı paket-özellik eşleşmesi tekrar oluşturulmaz. Bağlantılı paket ve özellikler kontrolsüz biçimde silinmez; geçmiş kullanımı olan paket gerektiğinde arşivlenir.  
 **Ek yönetim alanları:** StoreOffers mağaza tekliflerini, RedeemCodes ve CodeRedemptions kampanya kodları ile kullanım geçmişini, StoreBillingEvents doğrulanmış mağaza olaylarını tutar. Kampanya erişimi mağaza satışı olarak kaydedilmez.
 
-### 4 · Question reports that preserve their history / Geçmişini koruyan soru bildirimleri
+### 🚩 4 · Question reports that preserve their history / Geçmişini koruyan soru bildirimleri
 
 ```mermaid
 erDiagram
@@ -485,10 +825,21 @@ Open reports are protected against duplicate submissions for the same student an
 
 QuestionReports öğrenciye ve soruya isteğe bağlı bağlantılar taşır. Aynı zamanda soru kodu, soru metni ve bildiren kişinin adı gibi anlık görüntüleri saklar. Soru veya kullanıcı kaldırıldığında ilişki boşalabilir; bildirimin geçmişi korunur.
 
-Aynı kullanıcı ve soru için açık bildirim tekrarı engellenir. Yeni, inceleniyor ve sonuçlandı durumları inceleme sürecini takip eder. Sonuçlanan bildirim geçmişte kalırken ilgili soru düzenlenmeye devam edebilir.
+Aynı kullanıcı ve soru için açık bildirim tekrarı engellenir. **Yeni · İnceleniyor · Sonuçlandı** durumları inceleme sürecini takip eder. Sonuçlanan bildirim geçmişte kalırken ilgili soru düzenlenmeye devam edebilir.
 
-## History and consistency / Geçmiş ve tutarlılık
+## 🛡️ History and consistency / Geçmiş ve tutarlılık
 
-**English.** Subscription periods, code redemptions, verified store events, support messages and management actions retain their history when current state changes. Unique constraints and coordinated transactions prevent duplicated package assignments, code usage and XP. Exam schedules match exam types through a shared code.
+**🇹🇷 Özellikler**
 
-**Türkçe.** Güncel durum değişse de abonelik dönemleri, kod kullanımları, doğrulanmış mağaza olayları, destek mesajları ve yönetim işlemleri geçmişte korunur. Benzersizlik kuralları ve koordineli işlemler paket ataması, kod kullanımı ve XP tekrarlarını önler. Sınav takvimi, sınav türleriyle ortak kod üzerinden eşleşir.
+- 🔹 Güncel durum değişse de abonelik dönemleri, kod kullanımları, doğrulanmış mağaza olayları, destek mesajları ve yönetim işlemleri geçmişte korunur.
+- 🔸 Benzersizlik kuralları ve koordineli işlemler paket ataması, kod kullanımı ve XP tekrarlarını önler.
+- ✅ Sınav takvimi, sınav türleriyle ortak kod üzerinden eşleşir.
+
+<details>
+<summary>🇬🇧 Features in English</summary>
+
+- 🔹 Subscription periods, code redemptions, verified store events, support messages and management actions retain their history when current state changes.
+- 🔸 Unique constraints and coordinated transactions prevent duplicated package assignments, code usage and XP.
+- ✅ Exam schedules match exam types through a shared code.
+
+</details>
