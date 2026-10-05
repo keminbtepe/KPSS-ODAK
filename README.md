@@ -401,8 +401,8 @@ erDiagram
     Questions {
         Guid Id PK
         Guid TopicId FK
-        Guid SubtopicId FK "nullable"
-        Guid ExamTypeId FK "nullable"
+        Guid SubtopicId FK "istege bagli"
+        Guid ExamTypeId FK "istege bagli"
         string QuestionCode UK
         string QuestionStem
         string SolutionExplanation
@@ -432,14 +432,14 @@ QuestionCode, yönetim ve bildirim süreçlerinde kullanılabilecek benzersiz so
 
 ```mermaid
 erDiagram
-    Users ||--o{ UserQuestionAnswers : submits
+    Users ||--o{ UserQuestionAnswers : gonderir
     Questions ||--o{ UserQuestionAnswers : kazanir
     Users ||--o{ UserTopicProgress : izler
     Topics ||--o{ UserTopicProgress : ozetler
-    Users ||--o{ UserDailyActivity : studies
-    Users ||--o{ UserPointEntries : earns
+    Users ||--o{ UserDailyActivity : calisir
+    Users ||--o{ UserPointEntries : kazanir
     Users ||--o{ UserFavoriteQuestions : kaydeder
-    Questions ||--o{ UserFavoriteQuestions : appears
+    Questions ||--o{ UserFavoriteQuestions : gorunur
     UserQuestionAnswers {
         Guid Id PK
         Guid UserId FK
@@ -493,10 +493,10 @@ Bu ayrım, geçmiş cevapları değiştirmeden konu ilerlemesini ve günlük ça
 ```mermaid
 erDiagram
     Roles ||--o{ Users : atar
-    Users ||--o{ UserSubscriptions : holds
+    Users ||--o{ UserSubscriptions : sahiptir
     SubscriptionPlans ||--o{ UserSubscriptions : sunar
     SubscriptionPlans ||--o{ PlanFeatures : kapsar
-    Features ||--o{ PlanFeatures : enables
+    Features ||--o{ PlanFeatures : etkinlestirir
     Roles {
         Guid Id PK
         string Name UK
@@ -548,12 +548,12 @@ UserSubscriptions kullanıcının paket dönemlerini saklar. Başlangıç, biti�
 
 ```mermaid
 erDiagram
-    Users |o--o{ QuestionReports : submits
-    Questions |o--o{ QuestionReports : concerns
+    Users |o--o{ QuestionReports : gonderir
+    Questions |o--o{ QuestionReports : ilgilidir
     QuestionReports {
         Guid Id PK
-        Guid UserId FK "nullable"
-        Guid QuestionId FK "nullable"
+        Guid UserId FK "istege bagli"
+        Guid QuestionId FK "istege bagli"
         string QuestionCode "snapshot"
         string QuestionStem "snapshot"
         string ReporterName "snapshot"
