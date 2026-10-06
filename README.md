@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/kpss-odak-logo.png" alt="KPSS ODAK" width="150" /></p>
 
 <h1 align="center">KPSS ODAK</h1>
-
+<p align="center"><strong>https://kpssodak.runasp.net/</strong></p>
 <p align="center">
 <img src="assets/google-play.svg" alt="Google Play" width="190" />
 <img src="assets/app-store.svg" alt="App Store" width="190" />
