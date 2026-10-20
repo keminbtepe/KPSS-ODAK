@@ -1,13 +1,14 @@
 <p align="center"><img src="assets/kpss-odak-logo.png" alt="KPSS ODAK" width="150" /></p>
 
 <h1 align="center">KPSS ODAK</h1>
-<p align="center"><strong>https://kpssodak.runasp.net/</strong></p>
+<p align="center"><strong>Haritada keşfet. Çözerek öğren. Hedefine odaklan.</strong></p>
+<p align="center"><a href="https://kpssodak.runasp.net/">🌐 Uygulamayı keşfet</a> · <a href="https://apps.apple.com/tr/app/kpss-odak/id6816253961?l=tr">🍎 App Store sayfası</a></p>
 <p align="center">
 <img src="assets/google-play.svg" alt="Google Play" width="190" />
-<img src="assets/app-store.svg" alt="App Store" width="190" />
+<a href="https://apps.apple.com/tr/app/kpss-odak/id6816253961?l=tr"><img src="assets/app-store.svg" alt="App Store" width="190" /></a>
 </p>
 
-<details>
+<details open>
 <summary><strong>🇹🇷 Türkçe</strong></summary>
 
 <p align="center"><strong>📱 Mobil öğrenci uygulaması · 🖥️ Web yönetim paneli · 🗓️ 2026</strong></p>
@@ -16,6 +17,72 @@
 
 KPSS ODAK, Kamu Personel Seçme Sınavı'na hazırlanan adaylar için soru pratiğini, müfredat ilerlemesini, hedefli tekrarı ve çalışma alışkanlığını bir araya getirir. Mobil öğrenci uygulamasını; içerik, kullanıcı, paket erişimi ve günlük operasyonları yöneten web paneli tamamlar.
 
+
+---
+
+## 🚀 Öne çıkan özellikler
+
+KPSS hazırlığını tek bir çalışma alanında topla: **haritada öğren, soruları açıklamalarıyla çöz, kendi testini oluştur ve gelişimini takip et.**
+
+| Özellik | Sana ne kazandırır? |
+| --- | --- |
+| 🗺️ **Haritayla Öğren** | 81 ili, dağları, akarsuları ve diğer coğrafi hedefleri haritada çalış; kartları sürükleyip bırakarak eşleştir. |
+| ✍️ **Sorunun üzerine yazarak çöz** | Destekleyen tablet ve kalemle işlemlerini sorunun üzerine yaz, önemli yerleri vurgula, aynı soruya döndüğünde notlarını yeniden aç. |
+| 📚 **5.000+ soruyla pratik** | Tarih, Coğrafya, Türkçe, Matematik, Vatandaşlık ve Güncel Bilgiler derslerinde konu odaklı çalış. |
+| 💡 **Açıklamalı çözümler** | Cevabını kontrol et, çözüm açıklamasını incele ve bilginin eksik kalan kısmını tamamla. |
+| ⏱️ **Genel ve branş denemeleri** | Süreli veya süresiz prova yap; sonuçlarında doğru, yanlış, boş ve netlerini gör. |
+| 🧩 **Kendine özel test** | İstediğin konuları birleştir, çalışma oturumunu ihtiyaçlarına göre hazırla. |
+| 🔁 **Hatalarım ve kaydedilenler** | Yanlış yaptığın sorulara geri dön; tekrar etmek istediğin soruları kaydet. |
+| 📈 **İlerleme ve soru istatistikleri** | Konu tamamlanmasını, başarı oranını ve soruların şık dağılımlarını incele. |
+| 🔥 **Günlük hedef ve çalışma serisi** | Aktif günlerini takvimde gör, çalışma alışkanlığını sürdür. |
+| 🏆 **Haftalık ve tüm zamanlar sıralaması** | Çalışma puanını ve sıralamadaki yerini takip et. |
+
+> 📌 **İçerik bilgisi:** 5.000+ soru, proje sahibinin 20 Ekim 2026 tarihli denemeler hariç soru bankası bilgisidir; katalog ve ekranlardaki sayılar zamanla değişebilir. “Çıkmışlara benzer” sorular özgün çalışma içerikleridir; uygulamanın ÖSYM ile resmî bağlantısı yoktur.
+
+## 🆕 Güncel çalışma deneyimi
+
+### 🗺️ Ezberlediğin yeri haritada bul
+
+Harita üzerinde hedefleri keşfet; dağ, akarsu, göl, ova ve plato gibi kategorilerle coğrafya çalış. Hedefe bıraktığın kartın sonucunu ve tur ilerlemesini gör. Yakınlaştırıp haritayı taşıyarak çalışacağın bölgeye odaklan.
+
+<p align="center"><img src="assets/11-map-learning.webp" alt="Haritayla Öğren: Türkiye haritasında dağ hedefleri ve cevap kartları" width="300" /></p>
+
+### ✍️ İşlemlerini aynı sorunun üzerine yaz
+
+Tablet modunda kalem, fosforlu kalem, silgi, renk ve kalınlık seçenekleriyle çalış. Geri al/ileri al araçlarını kullan; **karalamaların cihazda saklansın, soruya döndüğünde yeniden açılsın.** Gezin modu ile kâğıdı taşı ve yakınlaştır.
+
+<p align="center"><img src="assets/16-tablet-writing-demo.png" alt="Tablet modunda sorunun üzerine not alma ve vurgulama kullanımını anlatan tanıtım görseli" width="540" /></p>
+
+> 🖊️ Görsel bir kullanım tanıtımıdır; üzerindeki çizimler örnektir. Tablet/kalem desteği cihaz ve native uygulama paketine bağlıdır. iPad/Apple Pencil için fiziksel cihaz kabulü bekler. **Telefonda parmakla yazma kaynakta hazırlanmıştır; yeni Android/iOS native build ve cihaz doğrulaması gerektirir.** Mevcut her kurulumda açık olduğu iddia edilmez.
+
+### 💡 Cevabı öğren, nedenini de anla
+
+Konu konu soru çöz, ardından açıklamayı açarak çözümün mantığını incele. Dersler ekranında hangi konularda ilerlediğini takip et. Son içerik genişletmesinde **1.000 açıklamalı soru, 2 tam genel deneme ve 10 branş denemesi** yayımlandı; bunlar ayrı ek paket sayılarıdır.
+
+<p align="center">
+<img src="assets/14-explained-solution.webp" alt="Soruya verilen cevap ve çözüm açıklaması" width="280" />
+<img src="assets/17-question-bank.png" alt="Dersler, konu sayıları ve çalışma ilerlemesi" width="280" />
+</p>
+
+### ⏱️ Denemeni çöz, kendi testini kur
+
+Genel veya branş denemeni seç; süreli ya da süresiz çalış. Tamamladığında ders bazındaki sonuçlarını incele. Belirli konulara odaklanmak istediğinde konuları birleştirip **Özel Test Oluştur** ile kişisel pratiğini başlat.
+
+<p align="center">
+<img src="assets/12-mock-exams.webp" alt="Genel ve branş denemelerinin seçildiği katalog" width="280" />
+<img src="assets/13-custom-test.webp" alt="Birden fazla konu seçilerek özel test oluşturulması" width="280" />
+</p>
+
+### 🔎 Doğru soruya daha hızlı ulaş
+
+- 🗓️ **Sınav türüne uygun yıllar:** Yalnız seçili sınav ve çözüm durumunda sorusu bulunan yıllar ile soru adetleri gösterilir.
+- ⚡ **Çözülmemiş sorular:** Hızlı çözümde cevaplanmamış havuza odaklan; filtrelerle çalışma alanını daralt.
+- 🔁 **Hedefli tekrar:** Hatalarını ders/konu bazında yeniden çöz; önemli soruları kişisel listende sakla.
+- 🏆 **Güncel puan kuralı:** İlk yanlış cevap en fazla 3 TP düşürür; puan sıfırın altına inmez. Tekrar çözüm yeni puan veya kesinti oluşturmaz.
+- 🌙 **Açık/koyu tema:** Çalışma ortamına uygun görünümü seç.
+- 🔄 **Uygulama içinden güncelleme:** Uyumlu güncellemeleri Profil ve Ayarlar alanından denetle; native özellikler için yeni mağaza paketi gerekebilir.
+
+> ℹ️ Özellik erişimi paket ve yönetici ayarlarına göre değişebilir. Ekran görüntüleri örnek kullanıcı verilerini ve çekildikleri tarihteki kataloğu gösterir; güncel haklar ve içerik için uygulamadaki bilgileri esas al.
 
 ---
 
@@ -352,7 +419,7 @@ flowchart LR
     V --> R["Cevap geçmişi"]
     R --> P["Konu ilerlemesi"]
     R --> D["Günlük hedef ve seri"]
-    R --> X["Tek seferlik XP"]
+    R --> X["Tek seferlik TP"]
     V --> S["Sonuç ve çözüm"]
     classDef neutral fill:#e8f0f7,stroke:#213145,color:#142334;
     classDef active fill:#fff0e0,stroke:#f08221,color:#142334;
@@ -362,7 +429,7 @@ flowchart LR
     class P,D,X,S result;
 ```
 
-Sunucu cevabı değerlendirir, denemeyi kaydeder ve konu ilerlemesini, günlük aktiviteyi ve uygun XP kazanımını günceller. Tekrar çözümleri tekil soru tamamlanmasını artırmaz; ilk doğru çözüm için puan bir kez kazanılır. Hata havuzu öğrencinin en son cevabına göre oluşur.
+Sunucu cevabı değerlendirir, cevap kaydını ve konu/günlük ilerlemeyi günceller. İlk cevap için uygun TP kazanımı veya ilk yanlışta en fazla 3 TP kesintisi bir kez işlenir; bakiye sıfırın altına düşmez. Tekrar çözümleri tekil soru tamamlanmasını artırmaz ve yeni puan/kesinti oluşturmaz. Hata havuzu öğrencinin en son cevabına göre oluşur.
 
 # 🗃️ Veri tabanı tasarımı
 
@@ -424,7 +491,7 @@ erDiagram
 
  Subjects → Topics → Subtopics yapısı ders, konu ve alt konu düzenini kurar. Her soru bir konuya bağlıdır; alt konu ve sınav türü isteğe bağlıdır. QuestionOptions, seçenekleri soru metninden ayrı kayıtlar halinde tutar.
 
-QuestionCode, yönetim ve bildirim süreçlerinde kullanılabilecek benzersiz soru referansıdır. Soru kaydı ayrıca kaynak, yıl, zorluk, hedef süre, XP, çözüm ve yayın bilgilerini taşır.
+QuestionCode, yönetim ve bildirim süreçlerinde kullanılabilecek benzersiz soru referansıdır. Soru kaydı ayrıca kaynak, yıl, zorluk, hedef süre, TP, çözüm ve yayın bilgilerini taşır.
 
 **Sınav takvimi:** ExamSchedules tarihleri, başlıkları ve aktifliği saklar. Belgelenen tasarımda sınav türü ile takvim ortak kod üzerinden eşleşir; mevcut olmayan bir yabancı anahtar bağlantısı çizilmemiştir.
 
@@ -479,13 +546,13 @@ erDiagram
     }
 ```
 
- UserQuestionAnswers her cevap denemesini ve çözüm süresini saklar. UserTopicProgress konudaki gelişimi özetler. UserDailyActivity çalışma günlerini ve günlük hedef durumunu temsil eder. UserPointEntries XP kazanımlarını, UserFavoriteQuestions ise kaydedilen soruları tutar.
+ UserQuestionAnswers her cevap denemesini ve çözüm süresini saklar. UserTopicProgress konudaki gelişimi özetler. UserDailyActivity çalışma günlerini ve günlük hedef durumunu temsil eder. UserPointEntries TP kazanımlarını, UserFavoriteQuestions ise kaydedilen soruları tutar.
 
 Bu ayrım, geçmiş cevapları değiştirmeden konu ilerlemesini ve günlük çalışma alışkanlığını ayrı ayrı değerlendirmeyi sağlar.
 
 **Tekil ilerleme:** aynı soru yeniden çözüldüğünde yeni bir soru gibi sayılmaz.  
 **Hata havuzu:** öğrencinin son cevabına göre hesaplanır; ayrı bir yanlışlar tablosu kullanılmaz.  
-**XP tutarlılığı:** soru yalnız ilk doğru çözümde puan kazandırır; puan kaynağı üzerinden mükerrer kazanım engellenir.  
+**TP tutarlılığı:** ilk cevap uygun kazanımı veya ilk yanlış kesintisini belirler; kaynak tekilliği tekrar puan/kesinti oluşmasını engeller.
 **Seri takibi:** günlük aktivite ve kullanıcının seri/koruma değerleri takvimi ve ara verilen günlerin korunmasını destekler.
 
 ### 🔐 3 · Roller, paketler ve özellik erişimi
@@ -594,6 +661,46 @@ Destek görüşmeleri, içerik incelemesi ve yönetim işlemleri farklı yaşam 
 
 KPSS ODAK brings question practice, curriculum progress, focused revision and study habits together for candidates preparing for Türkiye's Public Personnel Selection Examination. A mobile student application is supported by a web portal for content, users, access packages and daily operations.
 
+
+---
+
+## 🚀 Feature highlights
+
+**Learn on the map, understand explained answers, build your own practice and track your progress.**
+
+- 🗺️ **Interactive geography:** Study Türkiye’s 81 provinces, mountains, rivers and other geographical targets with map interactions and drag-and-drop matching.
+- ✍️ **Write on the question:** Use supported tablets and pens for calculations, highlighting, erasing and locally saved notes.
+- 📚 **5,000+ practice questions:** Work through History, Geography, Turkish, Mathematics, Citizenship and Current Affairs by topic.
+- 💡 **Explained answers:** Review the reasoning after answering; follow curriculum completion and question statistics.
+- ⏱️ **General and subject mock exams:** Choose timed or untimed practice and review correct, incorrect, unanswered and net results.
+- 🧩 **Custom tests:** Combine topics into a personal practice session.
+- 🔁 **Mistakes and saved questions:** Return to weak areas and keep important questions ready for revision.
+- 🔥 **Daily goals and streaks:** Follow active study days on the calendar.
+- 🏆 **Leaderboards:** View weekly and all-time standings. A first incorrect answer deducts up to 3 TP without taking the balance below zero; repeated attempts do not create another award or deduction.
+- 🔎 **Relevant year filters:** See only years and question counts available for the selected exam and solving status.
+
+### 📱 Maps, explanations and mock exams
+
+<p align="center">
+<img src="assets/11-map-learning.webp" alt="Interactive geography with mountain targets" width="230" />
+<img src="assets/14-explained-solution.webp" alt="Question and answer explanation" width="230" />
+<img src="assets/12-mock-exams.webp" alt="General and subject mock exam catalogue" width="230" />
+</p>
+
+### ✍️ Persistent notes and personal practice
+
+Pen, highlighter, eraser, undo/redo and navigation tools share the question workspace. Notes are saved locally for returning to the same question. The tablet image in the Turkish section is a promotional usage illustration with example handwriting.
+
+A recent content expansion added **1,000 explained questions, 2 full general mock exams and 10 subject mock exams**. Custom topic selection, mistakes and saved questions help students focus their next session.
+
+<p align="center">
+<img src="assets/15-subject-progress.webp" alt="Expanded subjects, topics and subtopics with progress" width="280" />
+<img src="assets/13-custom-test.webp" alt="Topic selection for a personal test" width="280" />
+</p>
+
+> ℹ️ **Availability:** Tablet/pen support depends on the device and native app package; physical iPad/Apple Pencil acceptance is pending. Phone finger drawing is prepared in source and requires new Android/iOS native builds and device validation. Package permissions and administrator settings may limit access. Screenshots show sample data from their capture dates.
+>
+> 📌 The 5,000+ bank figure is the project owner’s statement as of 20 October 2026, excluding mock exams; counts can change. Past-exam-style questions are original practice content. KPSSODAK is independent of ÖSYM.
 
 ---
 
@@ -926,7 +1033,7 @@ flowchart LR
     V --> R["Answer history"]
     R --> P["Topic progress"]
     R --> D["Daily goal and streak"]
-    R --> X["One-time XP"]
+    R --> X["One-time TP"]
     V --> S["Result and explanation"]
     classDef neutral fill:#e8f0f7,stroke:#213145,color:#142334;
     classDef active fill:#fff0e0,stroke:#f08221,color:#142334;
@@ -936,7 +1043,7 @@ flowchart LR
     class P,D,X,S result;
 ```
 
-The server evaluates an answer, saves the attempt and updates topic progress, daily activity and eligible XP. Repeated attempts do not inflate distinct-question completion; XP is earned once for the first correct solution. The mistake pool follows the student's latest answer.
+The server evaluates an answer and updates answer history, topic progress and daily activity. Eligible TP rewards or a first-wrong-answer deduction of up to 3 TP are processed once; the balance never drops below zero. Repeated attempts do not inflate distinct-question completion or create additional awards/deductions. The mistake pool follows the student's latest answer.
 
 # 🗃️ Database design
 
@@ -998,7 +1105,7 @@ erDiagram
 
 A subject contains topics, and a topic contains subtopics. Each question belongs to a topic; its subtopic and exam type are optional. Keeping answer choices in QuestionOptions allows question text, choices, explanations and publication status to be maintained as one content unit.
 
-QuestionCode provides a stable, unique reference for administration and reporting. Questions also carry source, year, difficulty, target duration and XP information beyond the fields shown here.
+QuestionCode provides a stable, unique reference for administration and reporting. Questions also carry source, year, difficulty, target duration and TP information beyond the fields shown here.
 
 **Exam calendar:** ExamSchedules stores dates, titles and availability. The documented calendar matches exam types through a shared code; it is not presented here as a foreign-key relationship.
 
@@ -1053,13 +1160,13 @@ erDiagram
     }
 ```
 
-UserQuestionAnswers keeps individual attempts and solving duration. UserTopicProgress summarizes progress per topic; UserDailyActivity represents study days and daily goals. UserPointEntries records XP awards, while UserFavoriteQuestions connects a student to saved questions.
+UserQuestionAnswers keeps individual attempts and solving duration. UserTopicProgress summarizes progress per topic; UserDailyActivity represents study days and daily goals. UserPointEntries records TP awards, while UserFavoriteQuestions connects a student to saved questions.
 
-These records answer different questions: “What did the student answer?”, “How far has the topic progressed?”, “Was today's goal met?” and “Why was XP awarded?”
+These records answer different questions: “What did the student answer?”, “How far has the topic progressed?”, “Was today's goal met?” and “Why was TP awarded?”
 
 **Distinct progress:** repeated attempts do not count as new questions for completion.  
 **Mistake review:** the latest answer determines whether a question belongs in the mistake pool; the pool is derived from answers rather than a separate mistakes table.  
-**XP consistency:** the first correct solution awards question XP once, with source-based uniqueness preventing repeated awards.  
+**TP consistency:** the first answer determines the eligible reward or first-wrong-answer deduction; source-based uniqueness prevents repeated awards and deductions.
 **Streak continuity:** daily activity and the user's streak/protection values support the study calendar and missed-day protection.
 
 ### 🔐 3 · Roles, packages and feature access
