@@ -11,8 +11,8 @@ KPSS hazırlığının birbirini tamamlayan parçaları, tek uygulamada.
 
 **[🌐 Web sitesini keşfet](https://kpssodak.runasp.net/)** &nbsp; · &nbsp; **[📱 Uygulama turu](#uygulama-turu)** &nbsp; · &nbsp; **[⚙️ Teknik bakış](docs/architecture.md)**
 
-<a href="https://apps.apple.com/tr/app/kpss-odak/id6816253961?l=tr"><img src="assets/app-store.svg" alt="App Store’dan indir" height="44" /></a>&nbsp;&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.bksstudio.kpssodak"><img src="assets/google-play.svg" alt="Google Play’den indir" height="44" /></a>
+<a href="https://apps.apple.com/tr/app/kpss-odak/id6816253961?l=tr"><img src="assets/app-store.svg" alt="App Store’dan indir" width="216" height="66" /></a>&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.bksstudio.kpssodak"><img src="assets/google-play.svg" alt="Google Play’den indir" width="216" height="66" /></a>
 
 <br/><br/>
 
