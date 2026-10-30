@@ -14,6 +14,7 @@ KPSS hazırlığının birbirini tamamlayan parçaları, tek uygulamada.
 <a href="https://apps.apple.com/tr/app/kpss-odak/id6816253961?l=tr"><img src="assets/app-store.svg" alt="App Store’dan indir" width="216" height="66" /></a>&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.bksstudio.kpssodak"><img src="assets/google-play.svg" alt="Google Play’den indir" width="216" height="66" /></a>
 
+<a href="https://youtube.com/shorts/LlMYGOJnE88?feature=share"/>🎬 Tanıtım Videosunu İzle</a>  
 <br/><br/>
 
 <img src="assets/screenshots/06-hazirlik-ozeti.jpg" alt="Ana sayfada kaldığın çalışma, hızlı erişim ve hazırlık özeti" width="46%" />&nbsp;<img src="assets/screenshots/10-profil-performans.jpg" alt="Profilde performans ve günlük hedef takibi" width="46%" />
