@@ -11,7 +11,7 @@ Soru çözümü, deneme, haritayla öğrenme ve çalışma takibi tek uygulamada
 <a href="https://apps.apple.com/tr/app/kpss-odak/id6816253961?l=tr"><img src="assets/app-store.svg" alt="App Store’dan indir" width="216" height="66" /></a>&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.bksstudio.kpssodak"><img src="assets/google-play.svg" alt="Google Play’den indir" width="216" height="66" /></a>
 
-<a href="https://youtube.com/shorts/LlMYGOJnE88?feature=share"><img src="assets/button-video.svg" alt="🎬 Tanıtım videosu" height="44" /></a>&nbsp;
+<a href="https://youtube.com/shorts/ZPPQbW5opy0?feature=share"><img src="assets/button-video.svg" alt="🎬 Tanıtım videosu" height="44" /></a>&nbsp;
 <a href="https://kpssodak.runasp.net/"><img src="assets/button-website.svg" alt="🌐 Web sitesi" height="44" /></a>&nbsp;
 <a href="#uygulama-turu"><img src="assets/button-tour.svg" alt="📱 Uygulama turu" height="44" /></a>&nbsp;
 <a href="docs/architecture.md"><img src="assets/button-tech.svg" alt="⚙️ Teknik bakış" height="44" /></a>
