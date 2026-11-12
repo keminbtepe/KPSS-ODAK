@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/kpss-odak-logo.png" alt="KPSSODAK" width="88" />
-
-# KPSSODAK
+<img src="assets/hero.svg" alt="KPSSODAK, Sınav Hazırlık Asistanı" width="100%" />
 
 ### 🎯 Hazırlığını gör. Eksiklerini tamamla. Hedefine odaklan.
 
@@ -38,7 +36,7 @@ Ne çözeceğini aramakla, yanlışlarını toplamakla veya nerede kaldığını
 
 <a id="uygulama-turu"></a>
 
-## 🧭 Uygulama turu
+<img src="assets/bolum-tur.svg" alt="🧭 Uygulama turu" width="100%" />
 
 <table>
 <tr>
@@ -60,9 +58,25 @@ Ne çözeceğini aramakla, yanlışlarını toplamakla veya nerede kaldığını
 
 ---
 
+<a id="yeni"></a>
+
+<img src="assets/bolum-yeni.svg" alt="🆕 Son eklenenler" width="100%" />
+
+### Kasım 2026'da gelenler
+
+- 🗺️ **Yeni harita kartları:** Göl oluşumları, UNESCO mirası ve Akkuyu gibi müfredat başlıkları Haritayla Öğren'e eklendi.
+- 🧱 **İki sütunlu kategori görünümü:** Harita kategorileri kart ızgarasında; geri döndüğünde liste kaldığın yerde açılır.
+- 🎟️ **Günlük ücretsiz soru hakkı:** Çıkmışlara Benzer sorularda ücretsiz üyelere günlük hak tanımlanabilir. Hak sayısı yönetimden belirlenir.
+- 🧑‍🎨 **Daha düzgün profil:** Profil fotoğrafı sabit yerinde durur, ekran açılırken kaymaz.
+- 📺 **Reklam ve kota mesajları:** Reklam yüklenemediğinde ekran takılı kalmaz; hakkın bittiğinde nedenini açıkça görürsün.
+
+---
+
 <a id="konular"></a>
 
-## 📚 Ne çalışacağını bilerek başla
+<img src="assets/bolum-dersler.svg" alt="📚 Dersler ve konular" width="100%" />
+
+### Ne çalışacağını bilerek başla
 
 Tarih, Coğrafya, Türkçe, Matematik, Vatandaşlık ve Güncel Bilgiler; ders → konu → alt konu düzeninde.
 
@@ -80,7 +94,9 @@ Tarih, Coğrafya, Türkçe, Matematik, Vatandaşlık ve Güncel Bilgiler; ders �
 
 <a id="soru-cozumu"></a>
 
-## 💡 Cevabı işaretle, mantığını öğren
+<img src="assets/bolum-soru.svg" alt="💡 Soru çözümü" width="100%" />
+
+### Cevabı işaretle, mantığını öğren
 
 Yanıtının sonucunu hemen gör, açıklamayı açarak nedenini incele.
 
@@ -98,7 +114,9 @@ Yanıtının sonucunu hemen gör, açıklamayı açarak nedenini incele.
 
 <a id="tekrar"></a>
 
-## 🔁 Yanlışlarını bir sonraki çalışmana dönüştür
+<img src="assets/bolum-tekrar.svg" alt="🔁 Hatalar ve özel test" width="100%" />
+
+### Yanlışlarını bir sonraki çalışmana dönüştür
 
 Geniş havuzda dolaşmak yerine ihtiyacın olan sorularla çalış.
 
@@ -112,7 +130,9 @@ Geniş havuzda dolaşmak yerine ihtiyacın olan sorularla çalış.
 
 <a id="denemeler"></a>
 
-## ⏱️ Sınavdan önce kendini dene
+<img src="assets/bolum-denemeler.svg" alt="⏱️ Denemeler" width="100%" />
+
+### Sınavdan önce kendini dene
 
 Bütün sınavı ya da tek bir dersi çalış. Zaman yönetimi için süreli, öğrenmek için süresiz başla.
 
@@ -130,11 +150,13 @@ Bütün sınavı ya da tek bir dersi çalış. Zaman yönetimi için süreli, ö
 
 <a id="harita"></a>
 
-## 🗺️ Coğrafyayı yerini bularak öğren
+<img src="assets/bolum-harita.svg" alt="🗺️ Haritayla Öğren" width="100%" />
+
+### Coğrafyayı yerini bularak öğren
 
 Türkiye haritasında **81 ili** ve coğrafi hedefleri çalış; cevap kartını doğru konuma sürükle.
 
-- 🏔️ **Kategoriler:** Dağ, akarsu, göl, ova, plato ve diğer coğrafya başlıkları.
+- 🏔️ **Kategoriler:** Dağ, akarsu, göl, ova, plato ve diğer coğrafya başlıkları; iki sütunlu kart görünümünde.
 - 🌾 **Tematik çalışma:** Ulaşım, çevre, hayvancılık, kalkınma projeleri ve yağış gibi kapsamlar.
 - 📍 **Farklı hedef türleri:** Nokta, akarsu çizgisi, bölge ve birden fazla ile bağlı hedefler.
 - 🔎 **Rahat gezinme:** Haritayı yakınlaştır, taşı; il adlarını ve komşu ülkeleri tercihine göre göster.
@@ -149,7 +171,9 @@ Türkiye haritasında **81 ili** ve coğrafi hedefleri çalış; cevap kartını
 
 <a id="tablet"></a>
 
-## ✍️ Düşünceni sorunun üzerine taşı
+<img src="assets/bolum-tablet.svg" alt="✍️ Tablette yazarak çöz" width="100%" />
+
+### Düşünceni sorunun üzerine taşı
 
 Desteklenen tablet modunda işlemini kâğıttaki gibi sorunun üzerinde yap.
 
@@ -169,7 +193,9 @@ Desteklenen tablet modunda işlemini kâğıttaki gibi sorunun üzerinde yap.
 
 <a id="motivasyon"></a>
 
-## 🔥 Motivasyonunu çalışma düzenine çevir
+<img src="assets/bolum-motivasyon.svg" alt="🔥 Seri ve liderlik" width="100%" />
+
+### Motivasyonunu çalışma düzenine çevir
 
 - 🎯 **Günlük hedef:** Soru hedefini belirle, gün içindeki ilerlemeni izle.
 - 📆 **Çalışma takvimi:** Çalıştığın, dondurduğun ve hedefini tamamladığın günleri ay ay gör.
@@ -188,7 +214,9 @@ Desteklenen tablet modunda işlemini kâğıttaki gibi sorunun üzerinde yap.
 
 <a id="hedef"></a>
 
-## 📅 Sınavın hep gözünün önünde
+<img src="assets/bolum-hedef.svg" alt="📅 Hedef ve takvim" width="100%" />
+
+### Sınavın hep gözünün önünde
 
 - 🎓 **Hedef sınav ve puan:** Hazırlandığın sınavı ve ulaşmak istediğin puanı belirle.
 - ⏰ **Geri sayım:** Sınavına kalan süreyi takip et.
@@ -196,7 +224,9 @@ Desteklenen tablet modunda işlemini kâğıttaki gibi sorunun üzerinde yap.
 
 <a id="hesap"></a>
 
-## 👤 Hesabın, üyeliğin ve destek
+<img src="assets/bolum-hesap.svg" alt="👤 Profil ve destek" width="100%" />
+
+### Hesabın, üyeliğin ve destek
 
 - 🔐 **Giriş:** E-posta ve şifre, desteklenen cihazlarda Apple ve Google.
 - 🔑 **Hesap güvenliği:** E-postana gelen kodla şifreni sıfırla; Apple veya Google hesabını bağla.
@@ -212,7 +242,9 @@ Desteklenen tablet modunda işlemini kâğıttaki gibi sorunun üzerinde yap.
 
 ---
 
-## 🖥️ Perde arkasındaki yönetim paneli
+<img src="assets/bolum-panel.svg" alt="🖥️ Yönetim paneli" width="100%" />
+
+### Perde arkasındaki yönetim paneli
 
 Öğrencinin gördüğü ders, soru, harita ve denemeler web panelinden yönetilir.
 
@@ -221,7 +253,7 @@ Desteklenen tablet modunda işlemini kâğıttaki gibi sorunun üzerinde yap.
 | 📝 | **İçerik** | Müfredat, soru bankası, LaTeX formül düzenleyici, mobil önizleme, denemeler ve sınav takvimi |
 | 🗺️ | **Haritalar** | Kategori kartları, noktaları sürükleyerek konumlama, yeni hedef ekleme, görünüm ve erişim ayarları |
 | 👥 | **Operasyon** | Kullanıcılar ve roller, üyelikler, erişim kodları, satışlar, soru bildirimleri, destek talepleri, liderlik ve seri ayarları |
-| 🛡️ | **Güvenlik ve izleme** | İşlem geçmişi, hata izleme paneli, taslak ve çakışma koruması |
+| 🛡️ | **Güvenlik ve izleme** | İşlem geçmişi, hata kodlarıyla uygulama hata izleme paneli, taslak ve çakışma koruması |
 
 <details>
 <summary>🖼️ <strong>Panelin örnek görünümünü aç</strong></summary>

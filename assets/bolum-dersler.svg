@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Dersler ve konular">
+<title>Dersler ve konular</title>
+<clipPath id="c"><rect x="1" y="1" width="1198" height="148" rx="28"/></clipPath>
+<g clip-path="url(#c)"><rect width="1200" height="150" fill="#213145"/><rect width="150" height="150" fill="#F08221"/>
+<path d="M1110 0 H1200 V90 Z" fill="#F08221"/><path d="M1110 0 V62 Q1110 90 1138 90 H1200 Z" fill="#ffffff" opacity=".92"/></g>
+<rect x="1" y="1" width="1198" height="148" rx="28" fill="none" stroke="#3a516d" stroke-width="2"/>
+<text x="75" y="100" font-size="72" text-anchor="middle" font-family="'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif">📚</text>
+<text x="196" y="96" fill="#ffffff" font-size="60" font-weight="800" letter-spacing="-1" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Dersler ve konular</text>
+</svg>
