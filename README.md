@@ -58,20 +58,6 @@ Ne çözeceğini aramakla, yanlışlarını toplamakla veya nerede kaldığını
 
 ---
 
-<a id="yeni"></a>
-
-<img src="assets/bolum-yeni.svg" alt="🆕 Son eklenenler" width="100%" />
-
-### Kasım 2026'da gelenler
-
-- 🗺️ **Yeni harita kartları:** Göl oluşumları, UNESCO mirası ve Akkuyu gibi müfredat başlıkları Haritayla Öğren'e eklendi.
-- 🧱 **İki sütunlu kategori görünümü:** Harita kategorileri kart ızgarasında; geri döndüğünde liste kaldığın yerde açılır.
-- 🎟️ **Günlük ücretsiz soru hakkı:** Çıkmışlara Benzer sorularda ücretsiz üyelere günlük hak tanımlanabilir. Hak sayısı yönetimden belirlenir.
-- 🧑‍🎨 **Daha düzgün profil:** Profil fotoğrafı sabit yerinde durur, ekran açılırken kaymaz.
-- 📺 **Reklam ve kota mesajları:** Reklam yüklenemediğinde ekran takılı kalmaz; hakkın bittiğinde nedenini açıkça görürsün.
-
----
-
 <a id="konular"></a>
 
 <img src="assets/bolum-dersler.svg" alt="📚 Dersler ve konular" width="100%" />
@@ -86,7 +72,7 @@ Tarih, Coğrafya, Türkçe, Matematik, Vatandaşlık ve Güncel Bilgiler; ders �
 - 🔀 **Konu veya karışık çözüm:** Tek başlığa odaklan ya da alanını genişlet.
 - ⚡ **Hızlı çözüm:** Farklı konulardan, önce çözmediğin sorularla başla.
 - 🎛️ **Sınav ve yıl filtreleri:** Hangi yılda kaç soru olduğunu görerek listeyi daralt.
-- 📝 **Çıkmışlara benzer sorular:** Sınav tarzında hazırlanmış özgün sorularla çalış.
+- 📝 **Çıkmışlara benzer sorular:** Sınav tarzında hazırlanmış özgün sorularla çalış. Ücretsiz üyelere günlük soru hakkı tanımlanabilir; hakkın bittiğinde nedenini ve seçeneklerini açıkça görürsün.
 
 <div align="center">
 <img src="assets/screenshots/05-konu-ilerlemesi.jpg" alt="Ders, konu ve alt konu ilerlemesi" width="32%" />&nbsp;<img src="assets/07-question-filters.jpeg" alt="Sınav, yıl ve çözüm durumu filtreleri" width="32%" />
@@ -156,7 +142,8 @@ Bütün sınavı ya da tek bir dersi çalış. Zaman yönetimi için süreli, ö
 
 Türkiye haritasında **81 ili** ve coğrafi hedefleri çalış; cevap kartını doğru konuma sürükle.
 
-- 🏔️ **Kategoriler:** Dağ, akarsu, göl, ova, plato ve diğer coğrafya başlıkları; iki sütunlu kart görünümünde.
+- 🏔️ **Kategoriler:** Dağ, akarsu, göl, ova, plato ve diğer coğrafya başlıkları; iki sütunlu kart görünümünde. Geri döndüğünde liste kaldığın yerde açılır.
+- 🌋 **Göl oluşumları, UNESCO Dünya Mirası ve Akkuyu:** Müfredatla ilişkili bu konular da harita kartlarıyla çalışılır.
 - 🌾 **Tematik çalışma:** Ulaşım, çevre, hayvancılık, kalkınma projeleri ve yağış gibi kapsamlar.
 - 📍 **Farklı hedef türleri:** Nokta, akarsu çizgisi, bölge ve birden fazla ile bağlı hedefler.
 - 🔎 **Rahat gezinme:** Haritayı yakınlaştır, taşı; il adlarını ve komşu ülkeleri tercihine göre göster.
@@ -230,8 +217,9 @@ Desteklenen tablet modunda işlemini kâğıttaki gibi sorunun üzerinde yap.
 
 - 🔐 **Giriş:** E-posta ve şifre, desteklenen cihazlarda Apple ve Google.
 - 🔑 **Hesap güvenliği:** E-postana gelen kodla şifreni sıfırla; Apple veya Google hesabını bağla.
-- 🖼️ **Profil:** Adını, kullanıcı adını ve fotoğrafını düzenle.
+- 🖼️ **Profil:** Adını, kullanıcı adını ve fotoğrafını düzenle; fotoğrafın sabit yerinde durur.
 - 🌗 **Tema:** Çalışma ortamına göre açık veya koyu görünüm.
+- 📺 **Reklam:** Ödüllü reklam yüklenemezse ekran takılı kalmaz, hata açıkça gösterilir.
 - 💎 **Üyelik:** Paketlerini ve Premium erişimini incele, satın alımını geri yükle, uygun erişim kodlarını kullan.
 - 💬 **Destek merkezi:** Talep oluştur, yanıtı uygulamada oku ve aynı talepte yazışmayı sürdür.
 - 🔄 **Güncellemeler:** Uyumlu güncellemeler açılışta otomatik uygulanır, çalışmanı yarıda kesmez.
@@ -250,18 +238,54 @@ Desteklenen tablet modunda işlemini kâğıttaki gibi sorunun üzerinde yap.
 
 | | Alan | Neler var |
 | --- | --- | --- |
-| 📝 | **İçerik** | Müfredat, soru bankası, LaTeX formül düzenleyici, mobil önizleme, denemeler ve sınav takvimi |
+| 📝 | **İçerik** | Müfredat, soru bankası, formül (LaTeX) düzenleyici anında önizlemeyle, mobil önizleme, denemeler ve sınav takvimi |
 | 🗺️ | **Haritalar** | Kategori kartları, noktaları sürükleyerek konumlama, yeni hedef ekleme, görünüm ve erişim ayarları |
-| 👥 | **Operasyon** | Kullanıcılar ve roller, üyelikler, erişim kodları, satışlar, soru bildirimleri, destek talepleri, liderlik ve seri ayarları |
-| 🛡️ | **Güvenlik ve izleme** | İşlem geçmişi, hata kodlarıyla uygulama hata izleme paneli, taslak ve çakışma koruması |
+| 👥 | **Operasyon** | Kullanıcılar ve roller, üyelikler, erişim kodları, satışlar, soru bildirimleri, destek talepleri, liderlik ve seri ayarları, Çıkmışlara Benzer günlük ücretsiz hak sayısı, ödüllü reklam ve yeni hesap reklamsız süre ayarları |
+| 🛡️ | **Güvenlik ve izleme** | İşlem geçmişi, hata kodlarıyla uygulama hata izleme ve akış başarı oranları, taslak ve çakışma koruması |
+
+#### 🧭 Panel turu
+
+Görüntüler canlı panelden alınmıştır; kişisel veri içeren ekranlar ve hesap bilgileri gösterilmez.
+
+**🏠 Genel Bakış.** Soru bankası, harita, deneme ve müfredat için kısayollar; soru, ders, konu ve alt konu sayıları ile derslere göre içerik dağılımı tek ekranda.
+
+<img src="assets/10-admin-dashboard.png" alt="Yönetim paneli Genel Bakış ekranı: içerik kısayolları ve sistem özeti" width="100%" />
+
+**📝 Soru Bankası.** Ders, konu ve alt konu seçilir; soru listeden açılır veya yenisi yazılır. Biçimlendirme araçları, LaTeX formülü ve seçilen telefon ölçüsünde mobil önizleme aynı sayfadadır. Taslak kaydedilebilir ya da doğrudan yayınlanır.
+
+<img src="assets/panel-soru-bankasi.png" alt="Soru Bankası: soru listesi, metin düzenleyici ve mobil önizleme ayarları" width="100%" />
+
+**⏱️ Denemeler.** Genel ve branş denemeleri kartlar halinde listelenir. Her kartta soru sayısı, süre, katılan öğrenci sayısı ve ortalama net görünür; deneme karttan aktif veya pasif yapılır.
+
+<img src="assets/panel-denemeler.png" alt="Denemeler: deneme kartları, katılım ve ortalama net bilgileri" width="100%" />
+
+**🗺️ Haritayla Öğren.** Her harita kategorisi bir karttır: il bulma, dağlar, akarsular, göllerin oluşumu, UNESCO Dünya Mirası, enerji ve ulaşım hatları ve diğerleri. Kartlar tek dokunuşla aktif veya pasif yapılır, alt kartları buradan düzenlenir.
+
+<img src="assets/panel-harita.png" alt="Haritayla Öğren yönetimi: harita kategorisi kartları ve aktiflik durumları" width="100%" />
+
+**🩺 Hatalar ve çökmeler.** Uygulamadan gelen hatalar hata kodu, önem, sürüm ve tekrar sayısıyla listelenir; platforma, sürüme ve cihaz modeline göre süzülür. Akış başarı oranları ayrı sekmededir. Bu ekran kişisel bilgi toplamaz.
+
+<img src="assets/panel-hata-izleme.png" alt="Hatalar ve çökmeler: hata kodları, önem, durum ve sürüm listesi" width="100%" />
 
 <details>
-<summary>🖼️ <strong>Panelin örnek görünümünü aç</strong></summary>
+<summary>📋 <strong>Paneldeki diğer sayfalar</strong></summary>
 
 <br/>
-<img src="assets/10-admin-dashboard.png" alt="Web yönetim paneli örnek genel bakış ekranı" width="100%" />
 
-*Görsel, yönetim deneyimini tanıtır; yönetim erişimi veya proje dosyası paylaşılmaz.*
+| | Sayfa | Ne yapılır |
+| --- | --- | --- |
+| 📚 | **Müfredat Yönetimi** | Ders, konu ve alt konu düzeni ile kapak görselleri |
+| 🚩 | **Soru Bildirimleri** | Öğrencilerin hatalı bulduğu soruların incelenmesi |
+| 📅 | **Sınav Yönetimi** | Sınav türleri ve sınav takvimi |
+| 🛡️ | **Roller** | Yönetici, eğitmen ve öğrenci yetkileri |
+| 🏆 | **Liderlik Ayarları** | Hangi rollerin sıralamaya katılacağı |
+| 🔥 | **Günlük Seri** | Seri kuralları, dondurma kalkanı ve telafi |
+| 💎 | **Abonelikler** | Paketler, özellikler, erişim ve çözüm kotası, reklam ayarları |
+| 🔑 | **Erişim Kodları** | Kod üretme ve kullanım takibi |
+| 💳 | **Satışlar** | Satış ve gelir özeti |
+| 💬 | **Destek Başvuruları** | Öğrenci taleplerini yanıtlama |
+| 🕘 | **İşlem Geçmişi** | Panelde yapılan işlemlerin kaydı |
+| ⚙️ | **Sistem Ayarları** | Servis durumu ve kaynak kullanımı |
 
 </details>
 
